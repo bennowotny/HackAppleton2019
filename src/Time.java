@@ -28,6 +28,7 @@ public class Time implements Comparable {
             throw new IllegalArgumentException("Illegal Time Input");
     }
 
+    //This method checks to see if two transactions are made at the same time
     @Override
     public boolean equals(Object obj) {
         if(!(obj instanceof Time)) return false;
@@ -35,6 +36,7 @@ public class Time implements Comparable {
         return year == t.year && month == t.month && day == t.day && hour == t.hour && minute == t.minute && second == t.second;
     }
 
+    //This method sorts the data by time in ascending order
     @Override
     public int compareTo(Object o) {
         if(!(o instanceof Time)) return 0;
