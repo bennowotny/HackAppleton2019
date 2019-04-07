@@ -53,7 +53,6 @@ public class Runnable {
         if(returnVal == JFileChooser.APPROVE_OPTION) {
             path = chooser.getSelectedFile().getAbsolutePath();
             tb.saveTransactions(readFromFile(path));
-            System.out.println(path);
         }
 
         //Add the names of the items to the JList that can scroll

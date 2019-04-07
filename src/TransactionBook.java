@@ -18,7 +18,7 @@ public class TransactionBook {
                 return o1.compareTo(o2);
             }
         });
-        System.out.println(transactions);
+
     }
 
     public String[] getUniqueItems(){
