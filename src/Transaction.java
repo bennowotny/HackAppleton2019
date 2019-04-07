@@ -1,6 +1,7 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 
-public class Transaction {
+public class Transaction implements Comparable {
 
     Time time;
     ArrayList<Item> items;
@@ -14,6 +15,14 @@ public class Transaction {
         for(Item i : this.items){
             totalPrice+=i.getTotalPrice();
         }
+
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        if(!(o instanceof Transaction)) return 0;
+
+        return this.time.compareTo(((Transaction) o).time);
     }
 
 }
