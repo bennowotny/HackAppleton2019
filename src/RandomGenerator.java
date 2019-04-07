@@ -18,48 +18,55 @@ public class RandomGenerator {
 
     //POPULATORS
 
+    //This method populates the array of names of items
     public static void populateNames() {
 
-        names[0] = "banana";
-        names[1] = "apple";
-        names[2] = "muffin";
-        names[3] = "milk";
-        names[4] = "eggs";
-        names[5] = "gum";
-        names[6] = "sandwich";
-        names[7] = "bread";
-        names[8] = "pizza";
-        names[9] = "nachos";
-        names[10] = "donut";
-        names[11] = "skittles";
+        names[0] = "Banana";
+        names[1] = "Apple";
+        names[2] = "Muffin";
+        names[3] = "Milk";
+        names[4] = "Eggs";
+        names[5] = "Gum";
+        names[6] = "Sandwich";
+        names[7] = "Bread";
+        names[8] = "Pizza";
+        names[9] = "Nachos";
+        names[10] = "Donut";
+        names[11] = "Skittles";
         names[12] = "M&Ms";
-        names[13] = "energy drink";
-        names[14] = "chips";
+        names[13] = "Energy drink";
+        names[14] = "Chips";
 
     }
 
+    //This method populates the array of names of locations
     public static void populateLocations(){
         locations[0] = "Hortonville";
         locations[1] = "Appleton North";
     }
 
+    //This method populates the numbers which are chosen to make the data follow a trend versus
+    //random points which may have no correlation
     public static void populateNumbersToBeChosen(){
         for(int ii = 0; ii < numbersToBeChosen.length; ii++){
             numbersToBeChosen[ii] = ii;
         }
     }
 
+    //This method calculates a random quantity which can be used anywhere
     public static int getRandomQuantity(){
         return (int) (Math.random() *5)+1;
     }
 
+    //This method chooses a random location from the location array
     public static String getRandomLocation(){
-        int locIndex = ((int) (Math.random() * 1));
+        int locIndex = ((int) (Math.random() * locations.length))-1;
         return locations[locIndex];
     }
 
     //ACCESSORS
 
+    //This method returns the name and the price of an item
     public static String getNameAndPrice() {
 
         String name = names[getIndex()];
@@ -122,6 +129,7 @@ public class RandomGenerator {
 
     }
 
+    //This method returns a random date of purchase for an item
     public static String getRandomDate(){
         int month;
         int day;
@@ -136,6 +144,7 @@ public class RandomGenerator {
 
     }
 
+    //This method returns a random time of purchase for an item
     public static String getRandomTime() {
         int hour;
         int minutes;
@@ -148,6 +157,7 @@ public class RandomGenerator {
         return hour + ":" + minutes + ":" + seconds;
     }
 
+    //This method is used when the index is needed. It can add and subtract without IndexOutOfBoundsExceptions
     public static int getIndex(){
         index = (int) (Math.random() * 15);
         int deltaChange = (int) (Math.random() * 5)-2;
@@ -161,6 +171,7 @@ public class RandomGenerator {
 
     //FINAL OUTPUT THINGS
 
+    //This method gets the information for one item's transaction
     public static String getItemDetails(){
         String getDetails;
         String nameAndPrice = getNameAndPrice();
@@ -172,6 +183,7 @@ public class RandomGenerator {
         return getDetails;
     }
 
+    //This method gets the information for the date and time of an item's transaction
     public static String createData(){
         String totalData = "";
         String totalDate = getRandomDate();
@@ -182,11 +194,13 @@ public class RandomGenerator {
         return totalData;
     }
 
+    //This method combines the information into the desired output
     public static String totalItemData(){
         String totalItemData = createData()+getItemDetails();
         return totalItemData;
     }
 
+    //This method writes the output to a file for use
     public static void writeToFile(Object o){
         try {
             File outputFile = new File(".\\file1.txt");

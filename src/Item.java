@@ -7,6 +7,8 @@ public class Item {
     String name;
     static ArrayList<Item> allItems = new ArrayList<>();
 
+    //CONSTRUCTORS
+
     private Item(Item i, int quantity){
         this.unitPrice = Math.round(i.unitPrice*100)/100.;
         this.name = i.name;
@@ -19,11 +21,7 @@ public class Item {
         this.quantity = quantity;
     }
 
-    public static void loadItems(String[] in){
-
-    }
-
-    //Returns an
+    //Returns an the data for each item of a specific name when the name is selected in the GUI
     public Item getItem(String name, int quantity){
         for(Item i : allItems){
             if(i.name.equals(name)) {
