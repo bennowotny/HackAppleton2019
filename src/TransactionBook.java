@@ -31,7 +31,7 @@ public class TransactionBook {
     }
 
     public ArrayList<Transaction> getTypedTransactions(String name){
-        if(Arrays.binarySearch(getUniqueItems(), name) == -1) return null;
+        //if(Arrays.binarySearch(getUniqueItems(), name) == -1) return null;
         ArrayList<Transaction> ts = new ArrayList<>();
         for(Transaction t : transactions){
             if(t.item.name.equals(name)) ts.add(t);
