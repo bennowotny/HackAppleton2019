@@ -16,6 +16,7 @@ public class Runnable {
     //Make a GUI with a frame with a panel. The panel can hold one row and two columns
     static JFrame frame = new JFrame();
     static JPanel panel = new JPanel(new GridLayout(1,2));
+    static TransactionBook tb = new TransactionBook();
 
     public static JFreeChart graph(){
         DefaultCategoryDataset dataset = new DefaultCategoryDataset();
@@ -43,14 +44,13 @@ public class Runnable {
         int returnVal = chooser.showOpenDialog(panel);
         if(returnVal == JFileChooser.APPROVE_OPTION) {
             path = chooser.getSelectedFile().getAbsolutePath();
-            TransactionBook tb = new TransactionBook();
             tb.saveTransactions(readFromFile(path));
             System.out.println(path);
         }
 
         //Add the names of the items to the JList and add a listener that will change the graph
         //when you select a new item
-        String[] data = {"Apple","Banana","Chocolate","Dairy","EMP"};
+        String[] data = tb.getUniqueItems();
         JList<String> list = new JList<String>(data);
         JScrollPane scroll = new JScrollPane(list);
         list.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);

@@ -19,4 +19,13 @@ public class TransactionBook {
         });
         System.out.println(transactions);
     }
+
+    public String[] getUniqueItems(){
+        if(transactions.size() == 0) return null;
+        ArrayList<String> types = new ArrayList<>();
+        for(Transaction t : transactions){
+            if(!types.contains(t.item.name))types.add(t.item.name);
+        }
+        return types.toArray(new String[types.size()]);
+    }
 }
