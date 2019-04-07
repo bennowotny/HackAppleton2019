@@ -81,6 +81,7 @@ public class Runnable {
         frame.add(panel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
+        frame.setTitle("KwikTrip | KwikStar Product Sales Data Visualization");
 
     }
     //Reads from the database file
