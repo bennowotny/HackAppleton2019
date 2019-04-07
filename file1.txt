@@ -1,1504 +1,500 @@
-2-12-2018,1:58:18,[nachos,1.99,2],Hortonville
-7-19-2018,18:12:41,[muffin,2.99,1],Hortonville
-7-24-2018,8:8:30,[banana,4.99,1],Hortonville
-10-16-2018,13:0:57,[eggs,3.29,1],Hortonville
-11-21-2017,16:9:48,[donut,2.29,5],Hortonville
-12-28-2018,17:30:7,[milk,5.99,3],Hortonville
-1-26-2017,11:0:35,[gum,0.99,4],Hortonville
-12-29-2018,12:49:29,[gum,0.99,2],Hortonville
-4-26-2017,23:48:30,[M&Ms,0.99,3],Hortonville
-11-27-2017,5:59:4,[muffin,2.99,5],Hortonville
-8-15-2017,19:20:36,[milk,5.99,2],Hortonville
-4-17-2017,9:26:34,[skittles,0.99,3],Hortonville
-5-28-2017,6:21:11,[chips,1.99,1],Hortonville
-5-17-2018,4:1:16,[donut,2.29,3],Hortonville
-9-31-2018,3:8:48,[gum,0.99,2],Hortonville
-6-29-2017,5:59:54,[apple,0.69,4],Hortonville
-10-26-2017,12:12:19,[donut,2.29,5],Hortonville
-1-28-2017,12:1:0,[M&Ms,0.99,5],Hortonville
-12-25-2018,14:48:54,[energy drink,4.99,4],Hortonville
-4-6-2018,21:12:19,[milk,5.99,3],Hortonville
-3-2-2017,8:54:24,[banana,4.99,4],Hortonville
-9-29-2018,5:12:51,[M&Ms,0.99,2],Hortonville
-4-24-2017,4:59:46,[pizza,1.99,3],Hortonville
-1-21-2017,15:31:41,[energy drink,4.99,4],Hortonville
-8-24-2017,11:13:16,[sandwich,3.29,2],Hortonville
-10-25-2018,9:31:27,[chips,1.99,4],Hortonville
-12-23-2018,5:3:8,[gum,0.99,4],Hortonville
-8-30-2017,12:23:16,[donut,2.29,4],Hortonville
-4-18-2017,17:45:10,[donut,2.29,1],Hortonville
-11-24-2018,6:27:32,[milk,5.99,4],Hortonville
-11-16-2017,23:53:51,[M&Ms,0.99,5],Hortonville
-6-13-2017,17:52:44,[milk,5.99,2],Hortonville
-3-29-2018,7:15:9,[nachos,1.99,1],Hortonville
-10-4-2017,4:22:0,[skittles,0.99,1],Hortonville
-10-17-2018,4:25:47,[milk,5.99,2],Hortonville
-12-20-2018,17:19:45,[energy drink,4.99,3],Hortonville
-3-16-2017,14:34:9,[banana,4.99,4],Hortonville
-1-11-2018,19:27:1,[pizza,1.99,1],Hortonville
-4-7-2018,23:44:40,[donut,2.29,5],Hortonville
-8-11-2017,10:25:8,[sandwich,3.29,1],Hortonville
-6-22-2017,17:53:0,[nachos,1.99,1],Hortonville
-3-5-2017,13:19:55,[gum,0.99,5],Hortonville
-6-27-2017,14:45:4,[M&Ms,0.99,2],Hortonville
-10-7-2018,11:55:2,[nachos,1.99,5],Hortonville
-5-28-2017,7:46:49,[sandwich,3.29,3],Hortonville
-10-25-2017,14:12:58,[muffin,2.99,4],Hortonville
-9-20-2018,18:56:37,[M&Ms,0.99,2],Hortonville
-3-13-2017,6:28:18,[nachos,1.99,2],Hortonville
-3-24-2017,23:5:59,[eggs,3.29,5],Hortonville
-7-5-2018,17:54:56,[bread,3.29,2],Hortonville
-11-23-2017,9:28:0,[chips,1.99,1],Hortonville
-9-26-2017,11:52:16,[pizza,1.99,1],Hortonville
-5-4-2018,20:0:24,[apple,0.69,5],Hortonville
-5-24-2017,15:9:1,[M&Ms,0.99,3],Hortonville
-7-28-2017,17:49:30,[nachos,1.99,1],Hortonville
-7-25-2018,19:27:34,[bread,3.29,1],Hortonville
-9-6-2018,1:16:37,[M&Ms,0.99,3],Hortonville
-10-27-2017,22:56:41,[apple,0.69,4],Hortonville
-12-2-2017,16:38:51,[muffin,2.99,4],Hortonville
-1-2-2018,11:10:45,[milk,5.99,4],Hortonville
-1-26-2018,8:53:28,[donut,2.29,5],Hortonville
-7-6-2018,18:1:29,[chips,1.99,1],Hortonville
-9-9-2017,17:26:57,[bread,3.29,1],Hortonville
-9-24-2017,15:3:34,[banana,4.99,3],Hortonville
-11-21-2017,18:37:46,[bread,3.29,4],Hortonville
-9-15-2017,7:46:50,[bread,3.29,4],Hortonville
-8-31-2017,22:30:37,[chips,1.99,1],Hortonville
-2-14-2017,19:45:28,[pizza,1.99,5],Hortonville
-6-19-2018,3:6:37,[energy drink,4.99,4],Hortonville
-8-24-2017,10:45:17,[apple,0.69,5],Hortonville
-7-22-2018,14:57:11,[donut,2.29,1],Hortonville
-12-2-2017,18:28:45,[M&Ms,0.99,5],Hortonville
-4-19-2017,9:18:8,[muffin,2.99,3],Hortonville
-12-18-2018,0:2:51,[gum,0.99,3],Hortonville
-8-12-2018,23:57:3,[apple,0.69,2],Hortonville
-4-24-2018,15:35:59,[banana,4.99,1],Hortonville
-1-16-2017,2:47:46,[gum,0.99,4],Hortonville
-7-5-2018,19:3:28,[donut,2.29,4],Hortonville
-8-6-2018,11:20:17,[apple,0.69,4],Hortonville
-7-16-2018,13:31:59,[nachos,1.99,1],Hortonville
-12-9-2017,9:59:31,[donut,2.29,1],Hortonville
-4-5-2018,0:15:31,[bread,3.29,3],Hortonville
-5-16-2017,8:27:37,[nachos,1.99,4],Hortonville
-4-5-2017,5:53:30,[skittles,0.99,2],Hortonville
-10-3-2017,17:20:36,[pizza,1.99,2],Hortonville
-10-1-2018,21:13:0,[skittles,0.99,1],Hortonville
-1-2-2017,1:40:57,[chips,1.99,2],Hortonville
-1-10-2017,20:57:9,[muffin,2.99,1],Hortonville
-10-28-2018,14:11:32,[pizza,1.99,4],Hortonville
-10-15-2017,21:48:0,[donut,2.29,1],Hortonville
-8-25-2018,21:59:54,[milk,5.99,2],Hortonville
-11-23-2017,8:46:27,[eggs,3.29,1],Hortonville
-9-19-2017,19:27:33,[milk,5.99,1],Hortonville
-8-1-2017,11:25:11,[energy drink,4.99,4],Hortonville
-1-2-2017,3:45:52,[banana,4.99,3],Hortonville
-9-17-2018,10:40:49,[bread,3.29,1],Hortonville
-5-28-2018,18:58:2,[M&Ms,0.99,4],Hortonville
-3-14-2017,4:47:47,[skittles,0.99,1],Hortonville
-4-21-2017,23:19:4,[gum,0.99,1],Hortonville
-6-27-2017,11:56:6,[gum,0.99,4],Hortonville
-4-12-2017,12:35:59,[apple,0.69,1],Hortonville
-10-13-2017,20:19:12,[chips,1.99,5],Hortonville
-4-12-2017,4:17:14,[bread,3.29,1],Hortonville
-12-6-2018,10:56:56,[sandwich,3.29,5],Hortonville
-6-22-2018,2:29:6,[bread,3.29,3],Hortonville
-1-11-2017,4:23:2,[banana,4.99,5],Hortonville
-6-19-2018,2:0:51,[nachos,1.99,1],Hortonville
-10-13-2017,3:51:46,[bread,3.29,5],Hortonville
-12-13-2018,3:37:54,[M&Ms,0.99,3],Hortonville
-3-12-2017,19:7:26,[muffin,2.99,3],Hortonville
-9-16-2017,10:29:17,[muffin,2.99,3],Hortonville
-5-15-2017,11:45:39,[gum,0.99,5],Hortonville
-7-5-2017,9:48:43,[gum,0.99,1],Hortonville
-2-13-2017,18:1:55,[gum,0.99,2],Hortonville
-9-4-2018,19:2:21,[banana,4.99,1],Hortonville
-12-7-2018,8:2:2,[energy drink,4.99,5],Hortonville
-5-12-2018,5:5:51,[eggs,3.29,5],Hortonville
-2-18-2017,14:2:57,[nachos,1.99,1],Hortonville
-9-31-2017,13:6:44,[energy drink,4.99,4],Hortonville
-11-28-2018,8:5:6,[donut,2.29,2],Hortonville
-7-11-2018,10:34:57,[gum,0.99,1],Hortonville
-7-24-2017,2:51:17,[sandwich,3.29,5],Hortonville
-8-2-2017,7:41:34,[gum,0.99,3],Hortonville
-5-22-2017,13:47:29,[donut,2.29,2],Hortonville
-5-19-2017,14:25:26,[sandwich,3.29,4],Hortonville
-10-29-2018,5:7:30,[muffin,2.99,3],Hortonville
-6-27-2018,6:55:12,[energy drink,4.99,4],Hortonville
-6-14-2018,20:14:15,[eggs,3.29,1],Hortonville
-10-25-2018,11:4:49,[M&Ms,0.99,2],Hortonville
-3-29-2018,3:21:22,[energy drink,4.99,3],Hortonville
-9-30-2018,23:35:42,[gum,0.99,3],Hortonville
-3-20-2018,3:55:39,[bread,3.29,4],Hortonville
-2-21-2018,10:49:48,[M&Ms,0.99,3],Hortonville
-6-21-2018,9:26:58,[apple,0.69,4],Hortonville
-1-7-2018,7:48:47,[apple,0.69,2],Hortonville
-6-6-2017,20:9:56,[eggs,3.29,2],Hortonville
-1-16-2018,8:4:45,[skittles,0.99,1],Hortonville
-5-27-2018,21:5:49,[bread,3.29,4],Hortonville
-1-11-2017,0:55:6,[gum,0.99,5],Hortonville
-7-8-2018,12:9:17,[M&Ms,0.99,1],Hortonville
-10-22-2018,10:15:57,[milk,5.99,1],Hortonville
-2-31-2017,9:45:14,[gum,0.99,5],Hortonville
-3-16-2017,9:0:18,[M&Ms,0.99,3],Hortonville
-10-19-2018,12:47:38,[milk,5.99,4],Hortonville
-4-28-2018,14:59:42,[muffin,2.99,3],Hortonville
-6-24-2018,22:33:45,[chips,1.99,2],Hortonville
-3-14-2018,23:0:4,[apple,0.69,4],Hortonville
-11-8-2018,12:18:51,[muffin,2.99,1],Hortonville
-10-18-2018,1:58:2,[apple,0.69,1],Hortonville
-10-13-2017,1:31:23,[eggs,3.29,3],Hortonville
-2-20-2017,14:13:58,[skittles,0.99,4],Hortonville
-2-1-2018,21:34:43,[M&Ms,0.99,5],Hortonville
-5-28-2018,3:53:46,[donut,2.29,5],Hortonville
-12-1-2017,4:13:5,[sandwich,3.29,3],Hortonville
-3-20-2017,21:49:16,[chips,1.99,4],Hortonville
-2-9-2017,12:9:31,[gum,0.99,3],Hortonville
-8-19-2018,16:5:14,[milk,5.99,3],Hortonville
-12-5-2018,21:19:31,[sandwich,3.29,3],Hortonville
-2-3-2017,11:41:34,[muffin,2.99,3],Hortonville
-12-18-2018,17:38:19,[energy drink,4.99,3],Hortonville
-5-1-2018,19:52:36,[energy drink,4.99,1],Hortonville
-9-4-2018,7:43:2,[M&Ms,0.99,5],Hortonville
-8-16-2018,19:1:5,[sandwich,3.29,2],Hortonville
-11-11-2017,15:20:8,[donut,2.29,3],Hortonville
-12-7-2018,0:48:53,[muffin,2.99,3],Hortonville
-4-5-2018,5:35:45,[apple,0.69,2],Hortonville
-9-23-2017,0:13:2,[muffin,2.99,3],Hortonville
-7-25-2018,9:25:38,[apple,0.69,3],Hortonville
-7-8-2018,23:11:9,[M&Ms,0.99,4],Hortonville
-1-28-2018,1:7:44,[eggs,3.29,1],Hortonville
-7-15-2018,22:56:22,[gum,0.99,3],Hortonville
-10-16-2017,21:42:56,[M&Ms,0.99,2],Hortonville
-11-10-2017,10:42:6,[donut,2.29,1],Hortonville
-8-2-2017,15:56:53,[donut,2.29,3],Hortonville
-5-20-2017,1:19:44,[chips,1.99,1],Hortonville
-7-8-2017,5:59:56,[energy drink,4.99,3],Hortonville
-8-4-2017,11:49:25,[banana,4.99,2],Hortonville
-10-10-2017,10:26:3,[energy drink,4.99,2],Hortonville
-10-31-2018,17:56:24,[M&Ms,0.99,5],Hortonville
-5-27-2018,14:38:2,[donut,2.29,4],Hortonville
-12-2-2017,7:35:31,[bread,3.29,1],Hortonville
-4-20-2018,10:38:19,[gum,0.99,1],Hortonville
-11-21-2018,13:58:55,[milk,5.99,1],Hortonville
-1-28-2018,22:33:59,[bread,3.29,1],Hortonville
-3-19-2017,18:47:23,[nachos,1.99,4],Hortonville
-12-27-2017,21:12:41,[sandwich,3.29,4],Hortonville
-7-16-2017,4:13:5,[energy drink,4.99,1],Hortonville
-8-12-2018,4:1:44,[nachos,1.99,2],Hortonville
-6-1-2017,11:28:45,[gum,0.99,5],Hortonville
-6-19-2018,0:42:29,[energy drink,4.99,1],Hortonville
-11-1-2017,9:41:1,[banana,4.99,5],Hortonville
-12-24-2018,11:54:5,[pizza,1.99,3],Hortonville
-7-5-2017,17:46:56,[pizza,1.99,5],Hortonville
-1-18-2018,2:14:12,[muffin,2.99,3],Hortonville
-1-25-2017,16:42:18,[banana,4.99,2],Hortonville
-10-10-2018,17:11:41,[nachos,1.99,5],Hortonville
-6-14-2017,22:1:51,[nachos,1.99,1],Hortonville
-4-18-2017,18:10:38,[chips,1.99,2],Hortonville
-1-14-2018,18:18:8,[energy drink,4.99,4],Hortonville
-8-4-2017,19:58:37,[eggs,3.29,2],Hortonville
-9-19-2018,3:44:6,[apple,0.69,5],Hortonville
-12-14-2018,22:31:32,[chips,1.99,3],Hortonville
-9-9-2017,20:45:39,[donut,2.29,4],Hortonville
-8-15-2017,21:16:44,[sandwich,3.29,5],Hortonville
-4-16-2018,1:15:23,[energy drink,4.99,1],Hortonville
-8-10-2017,17:1:10,[milk,5.99,3],Hortonville
-2-20-2017,18:53:11,[energy drink,4.99,1],Hortonville
-4-27-2018,7:15:17,[energy drink,4.99,4],Hortonville
-8-8-2017,5:40:10,[energy drink,4.99,5],Hortonville
-10-14-2018,20:14:24,[sandwich,3.29,3],Hortonville
-4-14-2018,17:26:20,[pizza,1.99,1],Hortonville
-5-28-2017,1:46:44,[milk,5.99,2],Hortonville
-12-17-2017,14:39:46,[M&Ms,0.99,3],Hortonville
-10-19-2017,12:10:14,[energy drink,4.99,4],Hortonville
-11-4-2018,22:27:25,[nachos,1.99,1],Hortonville
-1-22-2017,1:28:38,[chips,1.99,2],Hortonville
-5-17-2017,17:15:8,[M&Ms,0.99,3],Hortonville
-4-7-2018,17:1:6,[apple,0.69,4],Hortonville
-8-13-2018,5:45:17,[bread,3.29,3],Hortonville
-12-13-2018,12:30:56,[donut,2.29,4],Hortonville
-1-16-2018,23:31:58,[apple,0.69,1],Hortonville
-6-29-2018,9:15:57,[pizza,1.99,2],Hortonville
-9-11-2018,21:46:38,[M&Ms,0.99,4],Hortonville
-9-11-2017,15:0:24,[apple,0.69,5],Hortonville
-4-6-2017,22:56:2,[muffin,2.99,1],Hortonville
-6-2-2017,22:8:19,[donut,2.29,1],Hortonville
-2-23-2018,23:17:32,[M&Ms,0.99,1],Hortonville
-2-24-2018,15:35:28,[donut,2.29,1],Hortonville
-7-20-2017,6:45:36,[bread,3.29,5],Hortonville
-8-25-2018,6:20:46,[M&Ms,0.99,4],Hortonville
-5-14-2017,17:0:34,[bread,3.29,3],Hortonville
-3-16-2018,23:35:14,[bread,3.29,4],Hortonville
-12-1-2018,12:42:41,[apple,0.69,5],Hortonville
-12-25-2018,22:8:16,[chips,1.99,5],Hortonville
-12-31-2018,2:50:52,[banana,4.99,3],Hortonville
-10-18-2017,18:57:16,[M&Ms,0.99,3],Hortonville
-2-20-2018,20:49:21,[banana,4.99,5],Hortonville
-6-9-2017,2:33:37,[chips,1.99,5],Hortonville
-12-25-2017,17:28:3,[bread,3.29,5],Hortonville
-12-31-2018,12:46:7,[gum,0.99,2],Hortonville
-1-28-2017,3:16:11,[nachos,1.99,3],Hortonville
-3-28-2018,23:19:50,[muffin,2.99,5],Hortonville
-5-29-2017,11:28:37,[eggs,3.29,2],Hortonville
-4-21-2017,15:58:11,[muffin,2.99,5],Hortonville
-9-15-2018,3:18:48,[bread,3.29,2],Hortonville
-2-26-2018,3:34:10,[bread,3.29,5],Hortonville
-8-23-2017,3:7:30,[banana,4.99,2],Hortonville
-8-13-2018,16:42:5,[sandwich,3.29,1],Hortonville
-12-14-2018,19:3:55,[banana,4.99,3],Hortonville
-3-10-2018,11:36:7,[gum,0.99,4],Hortonville
-1-9-2017,13:34:51,[muffin,2.99,3],Hortonville
-12-15-2017,2:25:33,[M&Ms,0.99,4],Hortonville
-8-11-2017,16:25:35,[energy drink,4.99,2],Hortonville
-2-14-2018,9:0:43,[bread,3.29,5],Hortonville
-3-24-2018,5:14:1,[nachos,1.99,2],Hortonville
-1-11-2018,10:34:50,[donut,2.29,5],Hortonville
-10-9-2017,1:31:15,[donut,2.29,2],Hortonville
-1-23-2018,12:19:49,[milk,5.99,1],Hortonville
-12-31-2018,13:19:34,[muffin,2.99,2],Hortonville
-2-24-2017,10:37:49,[banana,4.99,4],Hortonville
-11-26-2017,19:19:55,[banana,4.99,2],Hortonville
-5-1-2017,7:44:18,[skittles,0.99,5],Hortonville
-7-27-2018,11:53:44,[bread,3.29,1],Hortonville
-7-26-2018,4:28:34,[donut,2.29,4],Hortonville
-10-12-2018,1:23:44,[M&Ms,0.99,5],Hortonville
-11-22-2017,20:26:14,[milk,5.99,1],Hortonville
-8-14-2018,20:9:26,[nachos,1.99,2],Hortonville
-6-9-2018,7:0:47,[chips,1.99,3],Hortonville
-12-11-2017,18:13:31,[sandwich,3.29,4],Hortonville
-7-4-2017,6:0:35,[milk,5.99,2],Hortonville
-7-24-2017,23:29:3,[M&Ms,0.99,4],Hortonville
-12-9-2017,21:52:39,[chips,1.99,2],Hortonville
-8-14-2017,7:2:7,[eggs,3.29,4],Hortonville
-1-25-2018,3:33:0,[chips,1.99,4],Hortonville
-12-29-2018,8:39:26,[banana,4.99,5],Hortonville
-2-26-2018,20:48:49,[skittles,0.99,4],Hortonville
-11-21-2017,17:22:47,[milk,5.99,5],Hortonville
-6-3-2018,17:38:41,[nachos,1.99,5],Hortonville
-5-22-2018,19:8:53,[skittles,0.99,3],Hortonville
-10-28-2018,10:28:34,[banana,4.99,4],Hortonville
-3-9-2017,6:52:43,[energy drink,4.99,2],Hortonville
-4-26-2018,17:22:20,[donut,2.29,2],Hortonville
-11-28-2017,11:27:1,[banana,4.99,3],Hortonville
-8-11-2017,15:6:38,[gum,0.99,3],Hortonville
-1-1-2017,16:54:35,[gum,0.99,2],Hortonville
-12-8-2018,17:51:53,[gum,0.99,2],Hortonville
-6-11-2017,1:8:50,[apple,0.69,1],Hortonville
-8-12-2017,4:47:44,[sandwich,3.29,3],Hortonville
-12-30-2018,19:0:40,[donut,2.29,5],Hortonville
-3-6-2018,12:8:15,[gum,0.99,2],Hortonville
-7-24-2018,13:29:20,[banana,4.99,2],Hortonville
-8-12-2017,20:3:14,[muffin,2.99,4],Hortonville
-7-3-2017,19:22:0,[donut,2.29,4],Hortonville
-6-20-2017,7:17:29,[skittles,0.99,2],Hortonville
-10-16-2018,9:17:33,[chips,1.99,1],Hortonville
-5-10-2017,20:2:27,[sandwich,3.29,5],Hortonville
-10-16-2018,7:43:29,[donut,2.29,1],Hortonville
-4-8-2018,15:17:5,[milk,5.99,2],Hortonville
-7-16-2017,14:19:49,[energy drink,4.99,2],Hortonville
-11-12-2018,0:34:12,[skittles,0.99,5],Hortonville
-12-12-2017,12:22:55,[sandwich,3.29,5],Hortonville
-4-27-2017,7:37:12,[chips,1.99,4],Hortonville
-10-27-2018,10:13:43,[chips,1.99,1],Hortonville
-7-21-2017,11:43:53,[bread,3.29,1],Hortonville
-6-19-2018,21:19:35,[nachos,1.99,2],Hortonville
-11-20-2017,23:10:4,[pizza,1.99,4],Hortonville
-11-15-2017,12:51:50,[M&Ms,0.99,1],Hortonville
-11-16-2018,8:57:11,[nachos,1.99,1],Hortonville
-8-27-2018,14:39:33,[nachos,1.99,2],Hortonville
-3-14-2017,22:23:54,[M&Ms,0.99,4],Hortonville
-9-1-2018,16:37:28,[bread,3.29,3],Hortonville
-1-31-2017,21:32:8,[apple,0.69,1],Hortonville
-10-18-2018,21:41:6,[banana,4.99,4],Hortonville
-4-24-2018,8:3:13,[milk,5.99,3],Hortonville
-4-11-2017,18:2:50,[banana,4.99,5],Hortonville
-11-15-2017,11:12:58,[bread,3.29,2],Hortonville
-12-28-2017,15:26:41,[banana,4.99,1],Hortonville
-10-8-2018,22:18:56,[sandwich,3.29,2],Hortonville
-6-8-2018,7:35:23,[gum,0.99,4],Hortonville
-4-25-2018,0:3:17,[pizza,1.99,5],Hortonville
-6-1-2017,17:26:34,[skittles,0.99,4],Hortonville
-1-12-2017,2:7:14,[pizza,1.99,2],Hortonville
-11-6-2017,11:58:25,[nachos,1.99,2],Hortonville
-6-18-2017,11:11:24,[bread,3.29,2],Hortonville
-7-4-2017,5:12:55,[donut,2.29,3],Hortonville
-6-11-2017,4:1:38,[chips,1.99,1],Hortonville
-2-9-2017,8:40:50,[pizza,1.99,2],Hortonville
-12-19-2018,0:38:36,[eggs,3.29,2],Hortonville
-3-20-2017,6:33:58,[muffin,2.99,1],Hortonville
-2-28-2018,21:40:49,[bread,3.29,5],Hortonville
-11-18-2017,20:3:0,[gum,0.99,3],Hortonville
-4-24-2018,21:27:7,[milk,5.99,3],Hortonville
-2-31-2018,8:40:38,[banana,4.99,5],Hortonville
-11-8-2018,4:9:30,[energy drink,4.99,1],Hortonville
-5-19-2018,21:8:56,[pizza,1.99,3],Hortonville
-11-7-2017,19:11:39,[energy drink,4.99,1],Hortonville
-1-30-2018,23:41:40,[muffin,2.99,1],Hortonville
-9-11-2018,19:30:51,[donut,2.29,5],Hortonville
-8-27-2018,3:34:19,[sandwich,3.29,5],Hortonville
-4-9-2018,16:58:6,[apple,0.69,3],Hortonville
-5-6-2017,21:14:6,[chips,1.99,5],Hortonville
-6-8-2018,23:46:38,[muffin,2.99,1],Hortonville
-6-5-2017,16:57:55,[nachos,1.99,5],Hortonville
-3-17-2017,21:3:37,[skittles,0.99,2],Hortonville
-12-5-2018,21:2:44,[eggs,3.29,3],Hortonville
-9-21-2018,5:26:2,[gum,0.99,5],Hortonville
-7-17-2017,1:6:37,[bread,3.29,3],Hortonville
-8-31-2018,2:25:59,[apple,0.69,3],Hortonville
-12-15-2018,22:36:58,[chips,1.99,1],Hortonville
-10-3-2018,16:18:42,[chips,1.99,1],Hortonville
-9-6-2017,10:59:4,[pizza,1.99,2],Hortonville
-6-22-2017,7:50:29,[nachos,1.99,1],Hortonville
-8-22-2018,12:43:59,[bread,3.29,2],Hortonville
-3-21-2017,9:51:31,[milk,5.99,2],Hortonville
-10-27-2018,9:36:35,[sandwich,3.29,5],Hortonville
-11-7-2018,14:33:12,[M&Ms,0.99,4],Hortonville
-11-26-2018,14:58:13,[M&Ms,0.99,4],Hortonville
-11-7-2017,16:48:13,[eggs,3.29,3],Hortonville
-9-24-2018,0:52:58,[sandwich,3.29,1],Hortonville
-8-29-2017,18:23:34,[apple,0.69,3],Hortonville
-11-1-2017,11:53:38,[M&Ms,0.99,4],Hortonville
-11-21-2017,4:35:49,[donut,2.29,4],Hortonville
-9-7-2017,9:19:2,[eggs,3.29,4],Hortonville
-9-19-2018,21:59:51,[banana,4.99,2],Hortonville
-11-15-2018,3:12:22,[energy drink,4.99,1],Hortonville
-10-30-2018,13:38:24,[M&Ms,0.99,2],Hortonville
-8-15-2017,4:9:32,[apple,0.69,5],Hortonville
-7-7-2018,11:33:40,[energy drink,4.99,3],Hortonville
-2-14-2017,18:14:31,[pizza,1.99,3],Hortonville
-2-10-2018,5:48:48,[milk,5.99,5],Hortonville
-11-5-2018,8:7:21,[apple,0.69,5],Hortonville
-2-7-2018,17:6:35,[banana,4.99,1],Hortonville
-5-21-2017,3:42:7,[energy drink,4.99,4],Hortonville
-4-6-2017,8:30:16,[milk,5.99,3],Hortonville
-4-15-2018,20:0:13,[nachos,1.99,1],Hortonville
-12-8-2017,5:17:45,[M&Ms,0.99,5],Hortonville
-12-20-2017,1:15:57,[muffin,2.99,5],Hortonville
-11-13-2018,10:6:2,[nachos,1.99,3],Hortonville
-5-26-2017,11:52:34,[energy drink,4.99,3],Hortonville
-7-26-2017,18:21:55,[gum,0.99,1],Hortonville
-1-8-2017,14:23:22,[nachos,1.99,1],Hortonville
-10-11-2017,15:56:24,[bread,3.29,1],Hortonville
-12-28-2017,6:19:57,[energy drink,4.99,5],Hortonville
-12-29-2017,2:27:14,[banana,4.99,4],Hortonville
-8-14-2018,20:56:17,[eggs,3.29,5],Hortonville
-10-31-2018,2:40:0,[bread,3.29,4],Hortonville
-10-13-2017,16:18:23,[skittles,0.99,1],Hortonville
-3-10-2018,13:45:48,[milk,5.99,5],Hortonville
-3-25-2018,3:3:25,[milk,5.99,4],Hortonville
-10-19-2018,3:7:51,[eggs,3.29,3],Hortonville
-11-25-2018,17:25:22,[donut,2.29,2],Hortonville
-7-28-2018,23:54:45,[muffin,2.99,5],Hortonville
-12-16-2018,22:13:51,[skittles,0.99,1],Hortonville
-10-30-2017,20:44:51,[banana,4.99,3],Hortonville
-6-22-2018,5:39:38,[donut,2.29,2],Hortonville
-8-9-2018,9:42:33,[pizza,1.99,1],Hortonville
-12-23-2017,13:4:53,[energy drink,4.99,3],Hortonville
-1-12-2017,4:12:42,[apple,0.69,4],Hortonville
-3-7-2018,1:56:44,[muffin,2.99,3],Hortonville
-8-10-2017,10:19:31,[nachos,1.99,5],Hortonville
-3-28-2017,10:48:48,[chips,1.99,4],Hortonville
-9-13-2018,14:59:3,[M&Ms,0.99,1],Hortonville
-11-21-2017,3:59:53,[sandwich,3.29,4],Hortonville
-5-28-2018,3:0:55,[pizza,1.99,1],Hortonville
-12-26-2018,17:30:36,[bread,3.29,1],Hortonville
-2-12-2018,6:49:54,[skittles,0.99,5],Hortonville
-10-27-2017,14:29:6,[muffin,2.99,2],Hortonville
-2-1-2018,2:26:10,[sandwich,3.29,3],Hortonville
-4-27-2017,19:46:19,[apple,0.69,5],Hortonville
-7-16-2017,2:19:19,[bread,3.29,3],Hortonville
-4-14-2018,1:19:15,[M&Ms,0.99,3],Hortonville
-6-21-2017,22:12:46,[donut,2.29,5],Hortonville
-11-29-2017,6:19:9,[M&Ms,0.99,3],Hortonville
-6-14-2017,17:18:44,[banana,4.99,4],Hortonville
-11-24-2018,5:30:19,[milk,5.99,3],Hortonville
-2-1-2018,20:49:20,[chips,1.99,1],Hortonville
-4-13-2018,11:33:37,[muffin,2.99,4],Hortonville
-12-22-2017,22:32:47,[energy drink,4.99,2],Hortonville
-8-31-2018,6:13:33,[donut,2.29,5],Hortonville
-11-27-2018,7:13:39,[nachos,1.99,3],Hortonville
-7-28-2017,21:15:34,[muffin,2.99,4],Hortonville
-9-9-2017,19:54:22,[skittles,0.99,3],Hortonville
-10-28-2017,13:45:2,[pizza,1.99,5],Hortonville
-9-24-2018,13:7:30,[pizza,1.99,1],Hortonville
-11-27-2017,9:47:27,[donut,2.29,2],Hortonville
-4-24-2018,11:20:12,[sandwich,3.29,1],Hortonville
-7-12-2017,11:29:38,[skittles,0.99,3],Hortonville
-12-19-2017,20:11:4,[gum,0.99,1],Hortonville
-12-24-2017,22:41:38,[chips,1.99,5],Hortonville
-8-30-2018,9:49:12,[pizza,1.99,4],Hortonville
-2-14-2017,4:10:42,[pizza,1.99,3],Hortonville
-6-12-2018,22:1:42,[skittles,0.99,2],Hortonville
-7-18-2017,8:21:18,[chips,1.99,2],Hortonville
-8-3-2018,15:26:24,[M&Ms,0.99,4],Hortonville
-6-17-2018,14:7:53,[banana,4.99,2],Hortonville
-4-14-2017,0:34:43,[eggs,3.29,1],Hortonville
-11-7-2018,17:10:17,[M&Ms,0.99,3],Hortonville
-7-9-2018,4:16:21,[nachos,1.99,5],Hortonville
-9-5-2018,11:11:42,[sandwich,3.29,2],Hortonville
-10-22-2018,16:22:25,[banana,4.99,2],Hortonville
-10-17-2018,3:27:3,[gum,0.99,1],Hortonville
-7-29-2017,20:43:2,[chips,1.99,1],Hortonville
-11-2-2017,12:21:9,[bread,3.29,3],Hortonville
-7-1-2018,20:38:19,[bread,3.29,5],Hortonville
-2-5-2017,11:56:32,[muffin,2.99,2],Hortonville
-10-22-2017,21:13:49,[pizza,1.99,5],Hortonville
-3-10-2018,4:33:9,[chips,1.99,4],Hortonville
-12-16-2018,19:13:30,[banana,4.99,2],Hortonville
-8-28-2018,7:48:30,[eggs,3.29,5],Hortonville
-11-25-2017,4:41:11,[milk,5.99,1],Hortonville
-1-27-2018,16:6:41,[nachos,1.99,1],Hortonville
-5-28-2018,23:1:30,[banana,4.99,3],Hortonville
-5-22-2017,11:8:44,[energy drink,4.99,1],Hortonville
-2-13-2018,12:15:48,[energy drink,4.99,1],Hortonville
-6-27-2017,8:35:4,[skittles,0.99,1],Hortonville
-7-12-2017,6:5:7,[bread,3.29,3],Hortonville
-7-17-2017,3:50:15,[bread,3.29,1],Hortonville
-2-18-2018,5:54:33,[chips,1.99,1],Hortonville
-7-10-2018,16:21:31,[muffin,2.99,5],Hortonville
-6-17-2017,4:50:8,[eggs,3.29,2],Hortonville
-7-8-2018,6:58:14,[banana,4.99,5],Hortonville
-5-31-2017,16:8:39,[eggs,3.29,3],Hortonville
-2-6-2017,8:49:9,[chips,1.99,5],Hortonville
-2-20-2018,16:56:41,[apple,0.69,3],Hortonville
-10-24-2017,22:9:24,[bread,3.29,5],Hortonville
-3-9-2018,22:44:27,[donut,2.29,1],Hortonville
-7-10-2017,20:8:54,[bread,3.29,5],Hortonville
-4-20-2017,9:43:54,[gum,0.99,5],Hortonville
-5-28-2017,23:36:12,[donut,2.29,4],Hortonville
-4-25-2018,10:29:9,[eggs,3.29,5],Hortonville
-8-23-2017,9:16:59,[pizza,1.99,3],Hortonville
-7-9-2018,14:27:3,[donut,2.29,2],Hortonville
-3-21-2017,14:46:40,[banana,4.99,4],Hortonville
-2-7-2017,3:8:14,[pizza,1.99,1],Hortonville
-3-10-2018,7:14:10,[M&Ms,0.99,5],Hortonville
-12-8-2017,1:27:14,[banana,4.99,2],Hortonville
-5-31-2017,8:57:10,[milk,5.99,3],Hortonville
-3-13-2017,9:4:19,[banana,4.99,2],Hortonville
-2-22-2017,12:58:43,[donut,2.29,2],Hortonville
-8-20-2018,14:9:27,[milk,5.99,1],Hortonville
-10-29-2018,8:49:20,[muffin,2.99,1],Hortonville
-6-22-2018,8:31:47,[eggs,3.29,1],Hortonville
-11-28-2018,20:31:39,[eggs,3.29,4],Hortonville
-3-19-2018,7:36:27,[nachos,1.99,1],Hortonville
-12-4-2018,9:18:35,[gum,0.99,5],Hortonville
-10-22-2018,2:15:27,[sandwich,3.29,4],Hortonville
-11-11-2018,18:5:12,[nachos,1.99,4],Hortonville
-9-2-2017,0:42:51,[sandwich,3.29,2],Hortonville
-2-2-2018,2:56:35,[gum,0.99,2],Hortonville
-9-16-2017,15:1:10,[chips,1.99,3],Hortonville
-8-29-2017,16:14:0,[apple,0.69,2],Hortonville
-1-18-2018,10:38:19,[donut,2.29,2],Hortonville
-8-1-2017,12:44:59,[pizza,1.99,5],Hortonville
-9-22-2017,8:11:49,[eggs,3.29,5],Hortonville
-1-13-2018,11:26:47,[donut,2.29,2],Hortonville
-6-22-2018,14:56:55,[eggs,3.29,5],Hortonville
-11-5-2017,20:6:40,[sandwich,3.29,2],Hortonville
-12-17-2017,10:33:30,[gum,0.99,2],Hortonville
-4-10-2017,0:39:34,[chips,1.99,2],Hortonville
-6-26-2017,17:9:45,[chips,1.99,1],Hortonville
-5-31-2018,16:57:37,[gum,0.99,3],Hortonville
-4-14-2018,17:0:41,[nachos,1.99,4],Hortonville
-3-25-2018,8:6:39,[muffin,2.99,3],Hortonville
-1-19-2017,3:45:14,[chips,1.99,3],Hortonville
-8-24-2018,12:37:9,[muffin,2.99,4],Hortonville
-9-7-2017,12:52:52,[milk,5.99,4],Hortonville
-1-21-2017,10:25:54,[gum,0.99,1],Hortonville
-4-7-2018,1:40:42,[pizza,1.99,1],Hortonville
-3-2-2018,20:8:48,[skittles,0.99,1],Hortonville
-10-31-2018,8:56:25,[chips,1.99,4],Hortonville
-11-27-2017,17:49:55,[sandwich,3.29,2],Hortonville
-6-8-2018,23:37:12,[eggs,3.29,3],Hortonville
-12-8-2017,15:29:49,[apple,0.69,2],Hortonville
-2-13-2018,11:37:2,[nachos,1.99,2],Hortonville
-8-17-2018,8:17:51,[bread,3.29,4],Hortonville
-5-6-2017,12:58:56,[banana,4.99,2],Hortonville
-3-9-2017,19:53:22,[muffin,2.99,2],Hortonville
-6-25-2017,0:15:8,[pizza,1.99,5],Hortonville
-7-12-2017,5:33:50,[chips,1.99,4],Hortonville
-2-14-2018,1:48:20,[energy drink,4.99,2],Hortonville
-5-1-2018,22:27:10,[muffin,2.99,4],Hortonville
-7-23-2018,8:55:7,[muffin,2.99,5],Hortonville
-1-17-2018,20:33:33,[banana,4.99,4],Hortonville
-6-22-2017,1:43:25,[nachos,1.99,4],Hortonville
-8-14-2017,10:16:26,[skittles,0.99,3],Hortonville
-10-8-2017,17:17:12,[muffin,2.99,4],Hortonville
-12-11-2017,6:30:50,[gum,0.99,1],Hortonville
-4-20-2017,11:23:55,[chips,1.99,3],Hortonville
-10-2-2017,14:12:27,[milk,5.99,1],Hortonville
-9-18-2018,1:32:38,[skittles,0.99,1],Hortonville
-12-8-2018,8:1:17,[pizza,1.99,5],Hortonville
-5-21-2018,12:25:57,[pizza,1.99,2],Hortonville
-4-25-2018,20:38:8,[chips,1.99,4],Hortonville
-6-24-2017,19:18:0,[donut,2.29,2],Hortonville
-3-7-2017,21:21:51,[M&Ms,0.99,4],Hortonville
-5-12-2018,11:37:5,[M&Ms,0.99,1],Hortonville
-4-2-2017,2:49:27,[nachos,1.99,5],Hortonville
-10-6-2017,1:18:31,[nachos,1.99,2],Hortonville
-6-2-2017,21:1:47,[chips,1.99,3],Hortonville
-5-3-2017,7:19:17,[nachos,1.99,3],Hortonville
-3-29-2017,16:37:44,[donut,2.29,5],Hortonville
-11-8-2017,1:3:4,[apple,0.69,1],Hortonville
-2-17-2018,23:18:49,[sandwich,3.29,4],Hortonville
-6-10-2017,3:17:33,[sandwich,3.29,4],Hortonville
-9-4-2018,18:52:1,[nachos,1.99,2],Hortonville
-10-24-2017,15:48:59,[apple,0.69,3],Hortonville
-11-26-2018,17:11:5,[eggs,3.29,4],Hortonville
-5-6-2018,8:41:48,[banana,4.99,1],Hortonville
-9-8-2018,21:30:59,[bread,3.29,5],Hortonville
-9-12-2018,22:44:55,[bread,3.29,5],Hortonville
-8-17-2017,0:53:17,[nachos,1.99,3],Hortonville
-2-14-2018,7:48:7,[milk,5.99,3],Hortonville
-5-6-2017,3:11:16,[pizza,1.99,1],Hortonville
-12-10-2017,9:47:26,[energy drink,4.99,4],Hortonville
-6-9-2017,15:5:7,[eggs,3.29,4],Hortonville
-2-30-2017,11:46:9,[muffin,2.99,3],Hortonville
-10-19-2018,2:23:6,[skittles,0.99,2],Hortonville
-3-19-2018,23:57:1,[nachos,1.99,4],Hortonville
-6-20-2017,16:27:56,[gum,0.99,4],Hortonville
-9-7-2017,15:17:42,[donut,2.29,3],Hortonville
-8-22-2017,8:40:32,[donut,2.29,4],Hortonville
-10-28-2018,9:41:43,[pizza,1.99,4],Hortonville
-4-27-2018,14:0:12,[eggs,3.29,1],Hortonville
-8-19-2017,22:8:31,[muffin,2.99,2],Hortonville
-7-8-2017,15:53:51,[eggs,3.29,4],Hortonville
-12-7-2018,0:56:31,[eggs,3.29,1],Hortonville
-8-24-2018,2:26:14,[banana,4.99,1],Hortonville
-6-16-2017,0:10:56,[nachos,1.99,3],Hortonville
-10-5-2018,22:45:42,[energy drink,4.99,4],Hortonville
-2-19-2017,6:49:24,[milk,5.99,1],Hortonville
-10-16-2018,0:34:8,[skittles,0.99,2],Hortonville
-5-16-2017,5:43:53,[M&Ms,0.99,1],Hortonville
-1-26-2017,2:29:18,[M&Ms,0.99,1],Hortonville
-9-2-2017,6:53:16,[M&Ms,0.99,4],Hortonville
-8-18-2018,19:23:1,[nachos,1.99,2],Hortonville
-10-18-2017,8:54:18,[nachos,1.99,3],Hortonville
-12-26-2018,1:57:32,[nachos,1.99,5],Hortonville
-10-2-2017,8:50:34,[bread,3.29,4],Hortonville
-12-23-2018,7:28:10,[M&Ms,0.99,4],Hortonville
-1-7-2018,13:13:4,[sandwich,3.29,2],Hortonville
-3-3-2017,8:21:48,[eggs,3.29,2],Hortonville
-8-7-2018,13:38:19,[muffin,2.99,1],Hortonville
-8-24-2017,10:37:11,[donut,2.29,3],Hortonville
-3-6-2017,8:12:2,[skittles,0.99,5],Hortonville
-8-10-2017,0:9:15,[M&Ms,0.99,3],Hortonville
-11-14-2017,9:49:24,[donut,2.29,2],Hortonville
-11-24-2017,3:5:43,[muffin,2.99,5],Hortonville
-9-25-2018,13:20:38,[pizza,1.99,4],Hortonville
-8-11-2017,10:8:22,[chips,1.99,5],Hortonville
-2-10-2018,20:13:53,[pizza,1.99,3],Hortonville
-7-30-2018,3:47:14,[pizza,1.99,4],Hortonville
-7-11-2018,22:18:17,[bread,3.29,3],Hortonville
-3-6-2017,21:44:9,[skittles,0.99,5],Hortonville
-6-11-2017,14:26:23,[apple,0.69,5],Hortonville
-11-29-2018,16:13:51,[gum,0.99,5],Hortonville
-10-2-2017,23:15:29,[skittles,0.99,2],Hortonville
-12-22-2018,18:50:32,[apple,0.69,4],Hortonville
-1-30-2018,15:52:51,[donut,2.29,3],Hortonville
-12-20-2018,15:1:8,[gum,0.99,4],Hortonville
-7-10-2018,14:49:16,[muffin,2.99,4],Hortonville
-9-23-2018,2:40:33,[donut,2.29,5],Hortonville
-7-24-2018,0:57:22,[energy drink,4.99,1],Hortonville
-3-29-2017,0:35:30,[gum,0.99,5],Hortonville
-10-15-2017,6:56:34,[M&Ms,0.99,2],Hortonville
-2-3-2018,23:50:36,[bread,3.29,3],Hortonville
-1-22-2018,21:6:34,[milk,5.99,4],Hortonville
-7-8-2017,20:55:47,[nachos,1.99,2],Hortonville
-6-11-2018,5:39:34,[bread,3.29,2],Hortonville
-12-23-2018,7:22:37,[gum,0.99,5],Hortonville
-12-5-2017,14:21:8,[M&Ms,0.99,1],Hortonville
-5-20-2017,0:38:35,[gum,0.99,5],Hortonville
-1-29-2018,10:44:4,[bread,3.29,2],Hortonville
-7-28-2017,14:9:7,[chips,1.99,5],Hortonville
-8-1-2018,16:56:15,[M&Ms,0.99,3],Hortonville
-7-15-2018,19:10:59,[eggs,3.29,5],Hortonville
-7-16-2017,3:0:27,[chips,1.99,4],Hortonville
-7-29-2017,19:28:34,[milk,5.99,4],Hortonville
-1-20-2018,4:1:56,[sandwich,3.29,4],Hortonville
-7-21-2017,1:1:37,[M&Ms,0.99,4],Hortonville
-7-22-2017,16:47:48,[milk,5.99,4],Hortonville
-8-24-2018,17:29:3,[banana,4.99,1],Hortonville
-2-6-2017,7:20:45,[energy drink,4.99,1],Hortonville
-9-12-2017,9:5:57,[banana,4.99,4],Hortonville
-7-11-2017,6:51:19,[energy drink,4.99,3],Hortonville
-12-2-2018,5:30:52,[skittles,0.99,2],Hortonville
-4-8-2018,5:46:23,[sandwich,3.29,1],Hortonville
-3-15-2018,14:16:30,[chips,1.99,4],Hortonville
-6-31-2018,5:44:0,[donut,2.29,3],Hortonville
-4-21-2018,1:48:0,[apple,0.69,2],Hortonville
-10-22-2017,10:50:51,[milk,5.99,3],Hortonville
-9-15-2017,13:39:15,[energy drink,4.99,1],Hortonville
-5-26-2018,0:2:11,[energy drink,4.99,2],Hortonville
-9-14-2017,10:15:45,[gum,0.99,5],Hortonville
-10-9-2017,22:31:28,[milk,5.99,3],Hortonville
-9-5-2018,14:21:36,[nachos,1.99,3],Hortonville
-8-6-2018,21:12:30,[eggs,3.29,4],Hortonville
-1-5-2018,20:42:7,[chips,1.99,3],Hortonville
-5-25-2017,8:16:55,[muffin,2.99,2],Hortonville
-12-15-2018,22:32:25,[pizza,1.99,2],Hortonville
-10-20-2017,16:17:22,[energy drink,4.99,1],Hortonville
-8-24-2017,21:17:34,[apple,0.69,3],Hortonville
-10-19-2018,13:57:52,[M&Ms,0.99,5],Hortonville
-7-23-2018,9:20:6,[muffin,2.99,3],Hortonville
-2-19-2018,3:35:5,[sandwich,3.29,3],Hortonville
-5-3-2018,19:1:13,[chips,1.99,2],Hortonville
-12-25-2018,10:50:9,[banana,4.99,4],Hortonville
-6-11-2018,23:37:54,[energy drink,4.99,5],Hortonville
-5-3-2018,23:57:0,[gum,0.99,4],Hortonville
-3-30-2017,6:1:42,[M&Ms,0.99,5],Hortonville
-6-10-2018,5:10:19,[chips,1.99,2],Hortonville
-8-14-2018,19:50:39,[donut,2.29,5],Hortonville
-9-17-2017,16:45:22,[donut,2.29,3],Hortonville
-5-12-2017,10:33:22,[apple,0.69,1],Hortonville
-6-1-2017,16:3:8,[apple,0.69,1],Hortonville
-5-24-2017,3:27:44,[sandwich,3.29,2],Hortonville
-12-17-2018,4:1:0,[eggs,3.29,1],Hortonville
-10-31-2018,11:52:12,[eggs,3.29,5],Hortonville
-11-5-2017,3:14:24,[gum,0.99,3],Hortonville
-1-12-2017,0:41:8,[muffin,2.99,5],Hortonville
-12-7-2018,12:50:49,[donut,2.29,5],Hortonville
-10-7-2017,23:56:53,[eggs,3.29,5],Hortonville
-12-28-2018,11:17:0,[milk,5.99,5],Hortonville
-9-29-2017,16:21:32,[muffin,2.99,5],Hortonville
-8-31-2018,19:22:41,[gum,0.99,1],Hortonville
-8-20-2017,21:10:56,[pizza,1.99,1],Hortonville
-12-8-2018,9:31:17,[gum,0.99,3],Hortonville
-5-22-2017,11:25:2,[nachos,1.99,4],Hortonville
-7-4-2017,10:59:15,[eggs,3.29,4],Hortonville
-4-14-2017,0:26:41,[sandwich,3.29,5],Hortonville
-3-20-2018,9:3:55,[nachos,1.99,5],Hortonville
-11-27-2018,22:16:9,[chips,1.99,4],Hortonville
-6-17-2018,13:8:54,[donut,2.29,5],Hortonville
-5-14-2018,3:0:33,[bread,3.29,4],Hortonville
-9-26-2018,14:18:59,[pizza,1.99,4],Hortonville
-2-27-2018,20:50:39,[muffin,2.99,3],Hortonville
-8-20-2018,6:0:39,[apple,0.69,2],Hortonville
-2-9-2018,12:11:59,[apple,0.69,5],Hortonville
-9-25-2018,8:48:7,[skittles,0.99,4],Hortonville
-3-1-2018,14:18:46,[sandwich,3.29,1],Hortonville
-4-25-2018,13:28:52,[energy drink,4.99,2],Hortonville
-10-15-2018,22:51:55,[donut,2.29,2],Hortonville
-4-4-2017,15:51:28,[banana,4.99,2],Hortonville
-10-5-2018,18:32:54,[skittles,0.99,3],Hortonville
-9-21-2017,13:6:7,[apple,0.69,1],Hortonville
-12-5-2017,15:10:37,[nachos,1.99,2],Hortonville
-1-24-2017,13:39:18,[donut,2.29,5],Hortonville
-6-9-2017,14:10:34,[donut,2.29,2],Hortonville
-3-12-2018,15:27:23,[banana,4.99,2],Hortonville
-11-13-2018,9:7:23,[muffin,2.99,3],Hortonville
-2-2-2018,5:49:16,[nachos,1.99,5],Hortonville
-8-28-2017,14:0:18,[energy drink,4.99,5],Hortonville
-8-20-2018,11:3:33,[milk,5.99,5],Hortonville
-6-4-2018,20:39:21,[chips,1.99,3],Hortonville
-4-2-2017,0:30:39,[eggs,3.29,3],Hortonville
-1-17-2017,15:8:53,[chips,1.99,3],Hortonville
-3-4-2017,8:34:54,[apple,0.69,2],Hortonville
-6-8-2017,20:31:26,[pizza,1.99,5],Hortonville
-5-18-2018,4:20:10,[eggs,3.29,5],Hortonville
-12-19-2018,8:6:8,[energy drink,4.99,5],Hortonville
-12-19-2017,18:4:9,[skittles,0.99,4],Hortonville
-6-4-2018,0:0:4,[apple,0.69,5],Hortonville
-9-7-2017,19:8:6,[bread,3.29,1],Hortonville
-12-7-2017,8:57:53,[donut,2.29,1],Hortonville
-10-17-2018,16:14:53,[chips,1.99,4],Hortonville
-5-12-2018,13:25:21,[milk,5.99,2],Hortonville
-7-10-2018,0:6:5,[M&Ms,0.99,4],Hortonville
-8-11-2018,23:38:1,[muffin,2.99,2],Hortonville
-2-19-2018,19:3:47,[milk,5.99,3],Hortonville
-4-31-2017,16:25:53,[milk,5.99,3],Hortonville
-8-1-2018,19:39:16,[muffin,2.99,2],Hortonville
-2-27-2018,12:17:46,[gum,0.99,2],Hortonville
-8-30-2017,10:45:0,[bread,3.29,4],Hortonville
-5-13-2017,5:47:5,[banana,4.99,3],Hortonville
-1-4-2017,21:26:13,[eggs,3.29,3],Hortonville
-7-5-2018,13:42:38,[banana,4.99,4],Hortonville
-11-9-2017,6:58:13,[M&Ms,0.99,3],Hortonville
-8-6-2018,2:18:3,[M&Ms,0.99,3],Hortonville
-11-30-2017,8:58:36,[skittles,0.99,2],Hortonville
-7-13-2018,15:4:29,[milk,5.99,2],Hortonville
-5-28-2018,20:29:40,[muffin,2.99,4],Hortonville
-10-13-2017,14:0:11,[pizza,1.99,1],Hortonville
-1-28-2017,23:11:23,[nachos,1.99,5],Hortonville
-5-23-2017,12:20:46,[M&Ms,0.99,4],Hortonville
-10-19-2018,12:9:59,[milk,5.99,1],Hortonville
-8-13-2017,1:10:1,[bread,3.29,2],Hortonville
-7-30-2017,2:33:17,[apple,0.69,2],Hortonville
-3-16-2017,8:31:59,[M&Ms,0.99,2],Hortonville
-1-3-2017,7:30:28,[nachos,1.99,5],Hortonville
-8-15-2017,5:29:5,[apple,0.69,3],Hortonville
-8-12-2017,7:35:30,[bread,3.29,2],Hortonville
-8-3-2018,6:7:43,[eggs,3.29,4],Hortonville
-10-25-2017,5:29:29,[muffin,2.99,3],Hortonville
-1-29-2018,18:22:55,[milk,5.99,4],Hortonville
-1-26-2018,3:15:15,[skittles,0.99,3],Hortonville
-1-17-2017,11:53:59,[gum,0.99,1],Hortonville
-12-23-2017,7:14:49,[energy drink,4.99,3],Hortonville
-2-7-2017,2:34:10,[nachos,1.99,1],Hortonville
-3-4-2018,16:7:23,[banana,4.99,3],Hortonville
-12-20-2017,20:55:42,[energy drink,4.99,4],Hortonville
-9-19-2017,15:43:23,[sandwich,3.29,5],Hortonville
-3-15-2018,22:34:33,[M&Ms,0.99,4],Hortonville
-10-15-2018,0:31:3,[banana,4.99,2],Hortonville
-1-27-2018,20:56:14,[pizza,1.99,3],Hortonville
-4-18-2018,2:47:28,[donut,2.29,1],Hortonville
-3-14-2018,0:58:23,[energy drink,4.99,5],Hortonville
-5-5-2017,13:7:38,[bread,3.29,5],Hortonville
-3-1-2017,9:1:54,[muffin,2.99,5],Hortonville
-3-22-2018,14:48:23,[muffin,2.99,2],Hortonville
-12-15-2018,19:40:38,[eggs,3.29,3],Hortonville
-12-26-2017,5:27:48,[milk,5.99,5],Hortonville
-11-18-2018,1:14:21,[muffin,2.99,1],Hortonville
-10-27-2017,23:10:27,[chips,1.99,5],Hortonville
-4-11-2018,17:19:42,[donut,2.29,4],Hortonville
-5-18-2018,17:31:53,[skittles,0.99,5],Hortonville
-5-19-2017,7:49:25,[skittles,0.99,2],Hortonville
-7-3-2017,10:15:23,[gum,0.99,5],Hortonville
-10-8-2017,10:7:34,[skittles,0.99,3],Hortonville
-2-3-2018,13:22:49,[bread,3.29,1],Hortonville
-11-14-2017,7:5:2,[nachos,1.99,4],Hortonville
-6-18-2018,11:15:43,[pizza,1.99,2],Hortonville
-8-19-2017,23:45:55,[bread,3.29,5],Hortonville
-7-4-2017,20:20:2,[pizza,1.99,2],Hortonville
-2-14-2017,2:0:49,[apple,0.69,1],Hortonville
-9-7-2017,4:35:46,[chips,1.99,4],Hortonville
-12-24-2017,0:8:28,[banana,4.99,2],Hortonville
-4-4-2017,14:18:36,[sandwich,3.29,5],Hortonville
-10-20-2017,15:15:3,[chips,1.99,3],Hortonville
-5-5-2018,4:32:13,[chips,1.99,3],Hortonville
-1-14-2017,12:12:23,[M&Ms,0.99,5],Hortonville
-2-28-2017,0:16:59,[muffin,2.99,2],Hortonville
-11-5-2017,7:6:38,[chips,1.99,4],Hortonville
-12-21-2017,17:57:22,[milk,5.99,1],Hortonville
-3-16-2017,1:8:42,[eggs,3.29,2],Hortonville
-10-10-2018,18:53:28,[bread,3.29,4],Hortonville
-6-8-2017,10:25:29,[pizza,1.99,1],Hortonville
-3-17-2018,10:45:42,[muffin,2.99,3],Hortonville
-4-21-2017,15:18:11,[pizza,1.99,2],Hortonville
-5-6-2017,2:0:12,[eggs,3.29,1],Hortonville
-11-8-2017,4:47:27,[apple,0.69,3],Hortonville
-5-20-2017,19:0:18,[gum,0.99,4],Hortonville
-11-22-2017,22:15:48,[muffin,2.99,5],Hortonville
-12-24-2017,22:9:14,[skittles,0.99,4],Hortonville
-7-30-2018,19:0:41,[banana,4.99,5],Hortonville
-4-4-2017,23:15:0,[sandwich,3.29,2],Hortonville
-12-29-2018,21:23:5,[sandwich,3.29,5],Hortonville
-6-12-2018,22:39:56,[eggs,3.29,2],Hortonville
-9-4-2017,14:17:58,[muffin,2.99,1],Hortonville
-2-5-2017,6:47:41,[donut,2.29,2],Hortonville
-11-22-2017,11:0:40,[chips,1.99,5],Hortonville
-8-23-2018,13:47:53,[pizza,1.99,1],Hortonville
-2-9-2017,17:59:34,[energy drink,4.99,3],Hortonville
-11-13-2017,16:7:59,[skittles,0.99,4],Hortonville
-5-25-2018,6:7:2,[nachos,1.99,4],Hortonville
-6-29-2017,16:57:10,[bread,3.29,1],Hortonville
-8-25-2018,13:42:35,[chips,1.99,2],Hortonville
-4-28-2018,0:8:8,[muffin,2.99,1],Hortonville
-11-24-2017,9:58:19,[chips,1.99,2],Hortonville
-8-15-2017,20:18:14,[donut,2.29,4],Hortonville
-1-2-2018,14:44:41,[apple,0.69,4],Hortonville
-4-31-2018,3:16:57,[donut,2.29,5],Hortonville
-1-31-2018,13:17:24,[energy drink,4.99,2],Hortonville
-11-10-2018,17:34:14,[skittles,0.99,1],Hortonville
-9-5-2017,4:27:2,[chips,1.99,3],Hortonville
-11-26-2017,12:36:2,[energy drink,4.99,5],Hortonville
-9-4-2017,2:45:54,[skittles,0.99,4],Hortonville
-5-11-2017,4:40:20,[eggs,3.29,3],Hortonville
-8-15-2017,22:16:29,[gum,0.99,1],Hortonville
-8-6-2017,21:6:48,[chips,1.99,5],Hortonville
-12-14-2017,8:5:44,[gum,0.99,5],Hortonville
-6-11-2018,16:4:15,[bread,3.29,1],Hortonville
-3-31-2017,1:28:30,[eggs,3.29,3],Hortonville
-10-16-2017,15:57:50,[skittles,0.99,5],Hortonville
-10-31-2017,12:49:16,[sandwich,3.29,2],Hortonville
-10-16-2017,9:48:13,[milk,5.99,2],Hortonville
-4-10-2018,10:31:24,[M&Ms,0.99,2],Hortonville
-5-26-2018,7:14:37,[nachos,1.99,2],Hortonville
-6-21-2018,20:37:21,[skittles,0.99,1],Hortonville
-9-7-2018,7:6:4,[bread,3.29,5],Hortonville
-5-18-2017,1:39:46,[nachos,1.99,3],Hortonville
-9-31-2017,4:36:54,[sandwich,3.29,1],Hortonville
-10-14-2018,15:44:41,[pizza,1.99,5],Hortonville
-6-13-2018,13:32:9,[donut,2.29,2],Hortonville
-7-26-2018,21:29:15,[donut,2.29,5],Hortonville
-3-27-2018,14:41:56,[M&Ms,0.99,2],Hortonville
-1-26-2018,17:0:18,[banana,4.99,3],Hortonville
-10-27-2018,4:19:9,[sandwich,3.29,3],Hortonville
-3-26-2018,15:6:57,[apple,0.69,2],Hortonville
-9-20-2017,21:15:30,[M&Ms,0.99,2],Hortonville
-11-28-2017,21:16:12,[pizza,1.99,3],Hortonville
-1-7-2018,15:26:14,[donut,2.29,2],Hortonville
-5-23-2017,17:58:19,[M&Ms,0.99,1],Hortonville
-12-30-2018,2:19:30,[apple,0.69,4],Hortonville
-1-7-2018,8:31:18,[skittles,0.99,1],Hortonville
-9-12-2018,9:16:55,[sandwich,3.29,2],Hortonville
-7-12-2017,15:28:5,[sandwich,3.29,5],Hortonville
-2-18-2018,20:59:22,[chips,1.99,4],Hortonville
-12-12-2018,19:45:16,[eggs,3.29,3],Hortonville
-5-5-2017,11:12:40,[sandwich,3.29,2],Hortonville
-2-25-2017,8:53:43,[nachos,1.99,5],Hortonville
-2-10-2017,23:33:47,[nachos,1.99,1],Hortonville
-6-7-2018,12:28:0,[donut,2.29,4],Hortonville
-4-15-2017,23:15:6,[M&Ms,0.99,4],Hortonville
-3-30-2018,11:13:25,[pizza,1.99,1],Hortonville
-12-20-2018,17:2:16,[skittles,0.99,4],Hortonville
-5-26-2018,6:27:46,[gum,0.99,4],Hortonville
-3-12-2018,16:50:15,[energy drink,4.99,4],Hortonville
-11-24-2018,6:21:36,[sandwich,3.29,3],Hortonville
-12-24-2017,20:23:47,[donut,2.29,2],Hortonville
-2-26-2017,10:3:10,[milk,5.99,1],Hortonville
-5-29-2017,11:5:26,[eggs,3.29,4],Hortonville
-7-20-2018,21:56:36,[donut,2.29,3],Hortonville
-7-11-2017,0:56:15,[chips,1.99,3],Hortonville
-1-21-2018,15:12:28,[gum,0.99,4],Hortonville
-3-2-2017,1:17:29,[bread,3.29,1],Hortonville
-1-24-2018,12:30:36,[skittles,0.99,2],Hortonville
-2-25-2018,5:49:46,[energy drink,4.99,3],Hortonville
-4-29-2017,18:55:13,[energy drink,4.99,4],Hortonville
-8-10-2018,5:40:27,[chips,1.99,1],Hortonville
-1-21-2017,19:31:29,[apple,0.69,4],Hortonville
-1-13-2018,8:28:54,[nachos,1.99,1],Hortonville
-12-22-2017,1:58:51,[sandwich,3.29,4],Hortonville
-7-1-2017,17:5:4,[banana,4.99,3],Hortonville
-11-26-2018,7:11:56,[apple,0.69,2],Hortonville
-8-17-2018,12:22:15,[milk,5.99,2],Hortonville
-5-17-2017,13:52:46,[muffin,2.99,2],Hortonville
-10-20-2018,13:48:36,[chips,1.99,2],Hortonville
-3-29-2018,9:33:49,[M&Ms,0.99,3],Hortonville
-10-1-2017,22:49:15,[nachos,1.99,1],Hortonville
-8-8-2018,17:42:20,[chips,1.99,5],Hortonville
-6-10-2017,18:16:52,[M&Ms,0.99,4],Hortonville
-8-5-2018,4:4:57,[pizza,1.99,5],Hortonville
-5-15-2018,0:7:53,[banana,4.99,2],Hortonville
-5-6-2018,22:1:27,[eggs,3.29,4],Hortonville
-2-8-2017,20:27:24,[sandwich,3.29,4],Hortonville
-4-3-2017,13:27:37,[sandwich,3.29,5],Hortonville
-7-20-2017,19:40:43,[energy drink,4.99,5],Hortonville
-11-20-2018,8:6:55,[muffin,2.99,1],Hortonville
-1-19-2018,16:21:19,[bread,3.29,2],Hortonville
-6-17-2017,15:54:24,[apple,0.69,5],Hortonville
-6-21-2017,14:51:34,[skittles,0.99,1],Hortonville
-9-9-2018,12:14:38,[donut,2.29,4],Hortonville
-9-18-2017,17:29:4,[muffin,2.99,2],Hortonville
-1-8-2017,22:45:24,[energy drink,4.99,4],Hortonville
-10-26-2018,7:31:36,[energy drink,4.99,5],Hortonville
-2-24-2018,17:45:10,[energy drink,4.99,5],Hortonville
-4-13-2018,7:45:23,[energy drink,4.99,4],Hortonville
-1-10-2017,20:8:48,[bread,3.29,1],Hortonville
-6-6-2018,1:43:34,[muffin,2.99,2],Hortonville
-2-17-2018,21:8:39,[banana,4.99,3],Hortonville
-5-3-2017,16:48:1,[banana,4.99,1],Hortonville
-8-17-2018,10:17:6,[milk,5.99,4],Hortonville
-1-17-2018,7:47:46,[gum,0.99,1],Hortonville
-9-7-2017,6:8:40,[sandwich,3.29,3],Hortonville
-4-3-2018,15:54:49,[milk,5.99,1],Hortonville
-2-18-2018,21:35:54,[eggs,3.29,4],Hortonville
-11-6-2017,12:58:45,[nachos,1.99,5],Hortonville
-5-11-2017,19:8:47,[M&Ms,0.99,4],Hortonville
-3-14-2017,5:49:52,[bread,3.29,4],Hortonville
-6-31-2018,1:27:50,[M&Ms,0.99,2],Hortonville
-7-8-2018,19:16:47,[eggs,3.29,5],Hortonville
-1-9-2018,12:53:47,[nachos,1.99,2],Hortonville
-7-30-2018,22:9:1,[pizza,1.99,5],Hortonville
-3-31-2018,14:34:2,[milk,5.99,3],Hortonville
-9-15-2018,4:10:49,[bread,3.29,2],Hortonville
-4-5-2018,2:15:46,[energy drink,4.99,2],Hortonville
-7-17-2018,5:34:27,[milk,5.99,4],Hortonville
-2-11-2017,8:18:17,[skittles,0.99,3],Hortonville
-10-19-2018,4:20:16,[chips,1.99,5],Hortonville
-1-22-2017,6:5:54,[donut,2.29,4],Hortonville
-4-21-2018,22:16:10,[milk,5.99,3],Hortonville
-7-22-2018,7:2:36,[chips,1.99,2],Hortonville
-1-12-2018,7:33:51,[banana,4.99,5],Hortonville
-9-2-2017,15:50:3,[bread,3.29,5],Hortonville
-9-21-2017,18:1:11,[chips,1.99,2],Hortonville
-3-11-2017,2:53:8,[energy drink,4.99,4],Hortonville
-1-3-2018,22:29:38,[eggs,3.29,4],Hortonville
-4-6-2017,23:47:58,[skittles,0.99,3],Hortonville
-6-3-2018,2:33:9,[apple,0.69,4],Hortonville
-6-31-2017,5:10:32,[M&Ms,0.99,5],Hortonville
-8-4-2018,13:55:33,[chips,1.99,5],Hortonville
-11-1-2017,23:3:35,[banana,4.99,3],Hortonville
-10-27-2018,11:59:30,[apple,0.69,4],Hortonville
-6-21-2018,20:16:57,[muffin,2.99,2],Hortonville
-7-31-2018,17:42:12,[sandwich,3.29,4],Hortonville
-9-21-2017,0:29:35,[nachos,1.99,5],Hortonville
-7-14-2018,7:47:30,[muffin,2.99,2],Hortonville
-6-30-2017,11:2:43,[pizza,1.99,5],Hortonville
-3-24-2017,9:30:0,[milk,5.99,2],Hortonville
-1-20-2018,20:28:25,[bread,3.29,1],Hortonville
-3-9-2018,21:16:37,[sandwich,3.29,5],Hortonville
-7-21-2017,9:49:6,[banana,4.99,2],Hortonville
-11-19-2017,6:1:34,[eggs,3.29,3],Hortonville
-1-15-2018,11:54:15,[eggs,3.29,5],Hortonville
-7-23-2017,5:42:12,[donut,2.29,3],Hortonville
-11-29-2017,22:37:36,[muffin,2.99,5],Hortonville
-7-14-2017,2:26:8,[chips,1.99,1],Hortonville
-2-12-2017,13:10:43,[nachos,1.99,2],Hortonville
-9-19-2018,21:31:23,[pizza,1.99,2],Hortonville
-3-20-2017,3:13:10,[milk,5.99,1],Hortonville
-4-16-2018,15:2:19,[nachos,1.99,2],Hortonville
-1-28-2018,7:38:18,[pizza,1.99,1],Hortonville
-10-17-2018,7:15:37,[nachos,1.99,4],Hortonville
-3-3-2018,14:56:35,[skittles,0.99,5],Hortonville
-7-8-2017,15:21:35,[chips,1.99,5],Hortonville
-12-11-2017,3:5:43,[sandwich,3.29,1],Hortonville
-7-15-2017,17:8:28,[milk,5.99,1],Hortonville
-2-18-2017,14:46:29,[milk,5.99,2],Hortonville
-10-5-2017,20:33:10,[muffin,2.99,1],Hortonville
-10-5-2018,12:12:54,[gum,0.99,1],Hortonville
-6-6-2018,16:26:12,[energy drink,4.99,5],Hortonville
-8-16-2017,0:38:38,[pizza,1.99,4],Hortonville
-11-10-2018,4:22:20,[banana,4.99,4],Hortonville
-7-20-2017,10:51:59,[muffin,2.99,3],Hortonville
-4-12-2017,2:3:39,[skittles,0.99,2],Hortonville
-5-29-2017,20:22:6,[milk,5.99,2],Hortonville
-1-23-2017,9:13:15,[pizza,1.99,5],Hortonville
-11-10-2018,6:55:48,[gum,0.99,5],Hortonville
-7-8-2018,1:56:18,[energy drink,4.99,5],Hortonville
-12-16-2018,19:28:50,[M&Ms,0.99,1],Hortonville
-4-21-2018,15:15:45,[muffin,2.99,4],Hortonville
-6-29-2017,19:50:37,[energy drink,4.99,1],Hortonville
-11-2-2018,2:25:24,[sandwich,3.29,1],Hortonville
-1-22-2017,13:44:43,[muffin,2.99,3],Hortonville
-9-28-2018,18:17:58,[milk,5.99,5],Hortonville
-5-30-2018,11:10:7,[skittles,0.99,4],Hortonville
-6-8-2018,4:16:47,[nachos,1.99,5],Hortonville
-5-21-2018,19:26:58,[skittles,0.99,2],Hortonville
-12-5-2017,14:5:23,[nachos,1.99,3],Hortonville
-11-7-2018,23:45:54,[donut,2.29,3],Hortonville
-2-14-2017,3:16:32,[M&Ms,0.99,4],Hortonville
-12-12-2017,16:26:20,[M&Ms,0.99,5],Hortonville
-12-11-2018,4:16:55,[muffin,2.99,1],Hortonville
-8-16-2017,21:28:53,[chips,1.99,1],Hortonville
-11-26-2017,0:47:49,[banana,4.99,2],Hortonville
-8-31-2017,20:44:2,[chips,1.99,1],Hortonville
-3-11-2017,11:59:8,[energy drink,4.99,4],Hortonville
-2-6-2017,9:0:43,[chips,1.99,3],Hortonville
-4-12-2018,15:8:19,[banana,4.99,5],Hortonville
-2-8-2018,4:1:41,[M&Ms,0.99,2],Hortonville
-9-24-2018,2:55:27,[eggs,3.29,1],Hortonville
-10-12-2017,19:2:36,[bread,3.29,4],Hortonville
-1-7-2017,8:11:22,[milk,5.99,5],Hortonville
-8-14-2018,2:20:1,[muffin,2.99,5],Hortonville
-9-9-2017,21:25:16,[milk,5.99,3],Hortonville
-7-1-2018,15:0:31,[pizza,1.99,4],Hortonville
-10-24-2017,15:23:27,[pizza,1.99,1],Hortonville
-6-25-2017,18:3:20,[bread,3.29,2],Hortonville
-3-27-2017,17:52:13,[banana,4.99,4],Hortonville
-4-5-2018,15:3:34,[muffin,2.99,1],Hortonville
-11-2-2017,8:53:51,[chips,1.99,3],Hortonville
-1-5-2017,19:31:22,[pizza,1.99,5],Hortonville
-12-7-2018,10:26:47,[muffin,2.99,5],Hortonville
-5-31-2017,16:41:2,[skittles,0.99,5],Hortonville
-3-11-2017,9:50:34,[nachos,1.99,1],Hortonville
-12-10-2017,13:17:46,[apple,0.69,4],Hortonville
-9-24-2017,0:47:24,[bread,3.29,5],Hortonville
-4-27-2017,9:0:15,[banana,4.99,2],Hortonville
-7-12-2017,10:49:37,[skittles,0.99,1],Hortonville
-6-21-2017,12:46:47,[muffin,2.99,1],Hortonville
-4-13-2018,15:39:28,[bread,3.29,4],Hortonville
-6-7-2018,1:20:44,[gum,0.99,3],Hortonville
-12-14-2017,12:40:57,[nachos,1.99,5],Hortonville
-10-12-2018,6:23:37,[nachos,1.99,3],Hortonville
-11-22-2017,5:23:19,[apple,0.69,1],Hortonville
-10-5-2017,18:31:29,[pizza,1.99,2],Hortonville
-3-22-2018,17:55:12,[apple,0.69,2],Hortonville
-5-25-2018,9:49:11,[gum,0.99,2],Hortonville
-10-10-2017,1:56:22,[banana,4.99,3],Hortonville
-7-15-2018,6:46:44,[banana,4.99,2],Hortonville
-10-23-2017,2:30:57,[energy drink,4.99,5],Hortonville
-3-30-2018,18:47:52,[energy drink,4.99,3],Hortonville
-3-27-2017,4:54:30,[banana,4.99,5],Hortonville
-7-5-2017,0:21:3,[M&Ms,0.99,4],Hortonville
-6-16-2017,7:51:54,[pizza,1.99,5],Hortonville
-8-31-2017,3:34:13,[eggs,3.29,4],Hortonville
-9-31-2018,1:59:11,[nachos,1.99,3],Hortonville
-8-24-2018,5:9:44,[eggs,3.29,3],Hortonville
-8-6-2017,7:55:46,[eggs,3.29,2],Hortonville
-9-19-2017,0:28:42,[pizza,1.99,1],Hortonville
-4-24-2017,0:5:42,[donut,2.29,1],Hortonville
-10-3-2017,9:33:27,[banana,4.99,2],Hortonville
-6-24-2018,22:22:41,[pizza,1.99,1],Hortonville
-9-9-2018,13:10:35,[eggs,3.29,4],Hortonville
-2-27-2018,10:29:54,[M&Ms,0.99,3],Hortonville
-11-8-2018,15:26:44,[sandwich,3.29,3],Hortonville
-9-11-2017,0:4:25,[M&Ms,0.99,5],Hortonville
-10-26-2018,8:7:16,[sandwich,3.29,4],Hortonville
-10-5-2018,16:7:40,[apple,0.69,3],Hortonville
-11-21-2018,19:22:32,[energy drink,4.99,4],Hortonville
-7-30-2017,0:39:4,[sandwich,3.29,1],Hortonville
-6-1-2017,18:32:55,[apple,0.69,2],Hortonville
-6-29-2018,20:49:56,[chips,1.99,1],Hortonville
-6-2-2017,18:45:21,[banana,4.99,4],Hortonville
-4-19-2017,2:9:47,[nachos,1.99,2],Hortonville
-2-18-2017,22:30:43,[donut,2.29,3],Hortonville
-5-25-2017,17:0:44,[milk,5.99,2],Hortonville
-5-4-2018,17:33:53,[apple,0.69,4],Hortonville
-2-25-2018,12:8:15,[nachos,1.99,5],Hortonville
-9-17-2018,1:18:45,[banana,4.99,5],Hortonville
-11-28-2017,21:54:31,[energy drink,4.99,2],Hortonville
-5-17-2017,8:29:8,[M&Ms,0.99,2],Hortonville
-7-16-2018,11:51:16,[M&Ms,0.99,5],Hortonville
-2-22-2017,18:50:57,[skittles,0.99,3],Hortonville
-1-7-2017,8:18:43,[milk,5.99,4],Hortonville
-12-4-2018,18:26:17,[chips,1.99,1],Hortonville
-3-17-2017,11:16:32,[muffin,2.99,1],Hortonville
-12-3-2017,8:44:6,[milk,5.99,4],Hortonville
-9-6-2017,21:42:19,[pizza,1.99,3],Hortonville
-6-27-2018,2:56:55,[M&Ms,0.99,3],Hortonville
-10-1-2017,9:3:33,[milk,5.99,1],Hortonville
-1-31-2018,20:43:56,[banana,4.99,1],Hortonville
-11-5-2017,4:57:52,[bread,3.29,4],Hortonville
-2-27-2018,23:0:24,[energy drink,4.99,5],Hortonville
-8-23-2018,19:56:9,[bread,3.29,1],Hortonville
-6-17-2018,2:6:4,[bread,3.29,2],Hortonville
-7-20-2018,12:5:13,[gum,0.99,5],Hortonville
-3-6-2018,18:16:26,[eggs,3.29,2],Hortonville
-12-6-2017,10:45:5,[apple,0.69,4],Hortonville
-12-30-2018,14:40:57,[skittles,0.99,4],Hortonville
-11-12-2018,12:45:59,[donut,2.29,2],Hortonville
-2-24-2018,7:20:5,[muffin,2.99,5],Hortonville
-2-23-2018,20:23:56,[milk,5.99,2],Hortonville
-8-4-2018,17:10:26,[chips,1.99,2],Hortonville
-4-26-2018,2:34:29,[M&Ms,0.99,4],Hortonville
-9-5-2017,19:20:54,[banana,4.99,1],Hortonville
-5-4-2018,12:0:46,[milk,5.99,5],Hortonville
-6-5-2018,12:14:21,[energy drink,4.99,1],Hortonville
-4-5-2017,3:6:28,[milk,5.99,4],Hortonville
-6-31-2017,0:8:47,[eggs,3.29,1],Hortonville
-9-18-2018,17:47:43,[banana,4.99,2],Hortonville
-12-19-2017,23:25:15,[banana,4.99,4],Hortonville
-7-10-2018,13:32:11,[sandwich,3.29,3],Hortonville
-7-10-2018,12:25:55,[milk,5.99,5],Hortonville
-7-17-2018,16:0:19,[donut,2.29,5],Hortonville
-5-6-2017,21:48:24,[energy drink,4.99,3],Hortonville
-3-22-2018,11:13:32,[M&Ms,0.99,5],Hortonville
-4-16-2017,4:42:38,[bread,3.29,3],Hortonville
-7-20-2018,0:2:15,[skittles,0.99,4],Hortonville
-2-29-2017,16:10:28,[pizza,1.99,2],Hortonville
-4-4-2017,9:19:3,[banana,4.99,1],Hortonville
-12-15-2018,22:1:18,[chips,1.99,2],Hortonville
-9-1-2018,20:59:47,[nachos,1.99,4],Hortonville
-5-9-2017,23:48:32,[gum,0.99,3],Hortonville
-11-17-2018,10:44:25,[energy drink,4.99,3],Hortonville
-7-5-2017,14:51:33,[muffin,2.99,2],Hortonville
-10-22-2018,5:34:0,[bread,3.29,1],Hortonville
-9-8-2017,0:26:28,[banana,4.99,1],Hortonville
-3-14-2018,0:41:27,[nachos,1.99,4],Hortonville
-4-5-2018,0:34:13,[apple,0.69,5],Hortonville
-3-12-2017,7:17:53,[gum,0.99,1],Hortonville
-7-15-2017,20:46:39,[milk,5.99,4],Hortonville
-6-3-2018,11:46:47,[bread,3.29,1],Hortonville
-9-10-2017,22:18:8,[sandwich,3.29,2],Hortonville
-10-18-2017,23:11:33,[skittles,0.99,4],Hortonville
-5-7-2017,17:50:45,[gum,0.99,2],Hortonville
-2-22-2018,11:17:54,[donut,2.29,5],Hortonville
-9-27-2018,16:7:20,[M&Ms,0.99,1],Hortonville
-8-19-2017,8:49:22,[muffin,2.99,1],Hortonville
-1-17-2017,3:46:54,[chips,1.99,3],Hortonville
-10-22-2018,16:16:58,[gum,0.99,3],Hortonville
-7-15-2017,6:4:35,[M&Ms,0.99,5],Hortonville
-7-12-2018,15:52:38,[chips,1.99,4],Hortonville
-7-24-2018,15:7:29,[pizza,1.99,5],Hortonville
-2-11-2018,0:27:44,[eggs,3.29,1],Hortonville
-6-23-2018,4:6:9,[donut,2.29,4],Hortonville
-11-21-2018,9:7:11,[banana,4.99,5],Hortonville
-10-18-2017,7:36:31,[energy drink,4.99,2],Hortonville
-9-4-2017,16:59:34,[donut,2.29,1],Hortonville
-2-10-2018,16:20:12,[pizza,1.99,5],Hortonville
-4-12-2018,17:44:1,[pizza,1.99,4],Hortonville
-5-6-2017,17:46:11,[chips,1.99,1],Hortonville
-3-12-2017,6:55:11,[sandwich,3.29,2],Hortonville
-4-21-2018,3:51:22,[chips,1.99,1],Hortonville
-2-7-2018,9:43:48,[banana,4.99,4],Hortonville
-9-26-2017,16:23:5,[donut,2.29,2],Hortonville
-1-15-2018,16:32:48,[sandwich,3.29,2],Hortonville
-11-27-2018,22:13:11,[M&Ms,0.99,5],Hortonville
-8-10-2017,17:56:54,[skittles,0.99,5],Hortonville
-10-21-2018,5:9:14,[bread,3.29,5],Hortonville
-1-22-2017,16:1:40,[milk,5.99,4],Hortonville
-6-1-2018,6:20:37,[apple,0.69,1],Hortonville
-6-4-2018,17:26:14,[chips,1.99,2],Hortonville
-7-26-2017,2:6:53,[muffin,2.99,1],Hortonville
-11-20-2018,15:17:15,[nachos,1.99,2],Hortonville
-5-1-2018,3:9:52,[eggs,3.29,1],Hortonville
-4-14-2018,20:40:11,[muffin,2.99,5],Hortonville
-8-5-2017,22:57:40,[gum,0.99,3],Hortonville
-9-27-2017,0:43:35,[sandwich,3.29,3],Hortonville
-9-28-2017,8:40:0,[banana,4.99,2],Hortonville
-1-20-2017,10:55:13,[milk,5.99,4],Hortonville
-2-11-2017,6:14:41,[banana,4.99,2],Hortonville
-2-2-2018,22:14:22,[apple,0.69,3],Hortonville
-10-7-2017,7:3:15,[donut,2.29,2],Hortonville
-3-27-2018,7:4:10,[eggs,3.29,2],Hortonville
-8-20-2018,2:54:35,[pizza,1.99,1],Hortonville
-11-24-2017,3:2:7,[chips,1.99,1],Hortonville
-1-16-2017,5:46:2,[bread,3.29,1],Hortonville
-3-16-2018,20:26:7,[milk,5.99,5],Hortonville
-2-27-2018,22:34:33,[energy drink,4.99,3],Hortonville
-2-29-2017,21:38:16,[gum,0.99,4],Hortonville
-2-18-2017,20:8:0,[muffin,2.99,5],Hortonville
-5-23-2017,23:26:21,[pizza,1.99,4],Hortonville
-8-21-2017,10:57:59,[gum,0.99,4],Hortonville
-5-29-2017,7:28:48,[chips,1.99,4],Hortonville
-4-23-2017,19:47:33,[M&Ms,0.99,3],Hortonville
-10-1-2017,12:7:3,[energy drink,4.99,4],Hortonville
-2-24-2017,15:1:11,[pizza,1.99,5],Hortonville
-1-2-2017,7:46:27,[gum,0.99,4],Hortonville
-6-30-2017,5:37:46,[nachos,1.99,3],Hortonville
-2-29-2017,23:5:26,[chips,1.99,3],Hortonville
-1-17-2018,1:45:15,[eggs,3.29,1],Hortonville
-5-16-2018,3:46:53,[M&Ms,0.99,3],Hortonville
-10-17-2018,2:43:48,[chips,1.99,1],Hortonville
-8-19-2018,15:9:37,[chips,1.99,3],Hortonville
-4-28-2018,2:37:14,[muffin,2.99,3],Hortonville
-9-27-2018,21:22:44,[bread,3.29,1],Hortonville
-9-21-2018,16:53:54,[energy drink,4.99,5],Hortonville
-8-4-2017,22:41:27,[eggs,3.29,3],Hortonville
-7-18-2017,12:23:55,[M&Ms,0.99,1],Hortonville
-5-27-2018,17:39:27,[donut,2.29,4],Hortonville
-9-10-2018,18:51:41,[gum,0.99,3],Hortonville
-6-17-2018,16:42:56,[banana,4.99,5],Hortonville
-8-13-2017,10:34:8,[donut,2.29,1],Hortonville
-1-3-2017,1:13:3,[muffin,2.99,1],Hortonville
-10-31-2017,4:38:32,[sandwich,3.29,2],Hortonville
-6-20-2018,9:10:14,[milk,5.99,1],Hortonville
-3-27-2018,5:40:11,[apple,0.69,3],Hortonville
-1-2-2017,1:52:33,[donut,2.29,3],Hortonville
-11-13-2017,19:12:6,[eggs,3.29,2],Hortonville
-2-2-2017,16:42:12,[bread,3.29,5],Hortonville
-4-4-2018,1:20:55,[energy drink,4.99,2],Hortonville
-12-21-2018,1:22:31,[nachos,1.99,2],Hortonville
-11-11-2017,17:33:7,[milk,5.99,1],Hortonville
-11-28-2017,14:7:55,[sandwich,3.29,2],Hortonville
-5-17-2018,15:33:39,[eggs,3.29,4],Hortonville
-3-26-2018,8:13:55,[milk,5.99,5],Hortonville
-5-19-2018,9:57:21,[nachos,1.99,3],Hortonville
-4-27-2017,13:14:41,[sandwich,3.29,2],Hortonville
-3-28-2017,2:1:36,[pizza,1.99,4],Hortonville
-9-12-2017,2:35:24,[nachos,1.99,2],Hortonville
-4-18-2017,5:54:8,[skittles,0.99,4],Hortonville
-8-1-2017,2:50:44,[nachos,1.99,2],Hortonville
-3-7-2018,16:3:56,[muffin,2.99,2],Hortonville
-7-15-2017,8:1:41,[sandwich,3.29,3],Hortonville
-12-15-2017,20:55:53,[sandwich,3.29,1],Hortonville
-11-26-2017,5:59:9,[muffin,2.99,1],Hortonville
-12-9-2017,15:35:28,[banana,4.99,3],Hortonville
-4-18-2017,7:0:21,[eggs,3.29,5],Hortonville
-5-9-2017,5:34:32,[skittles,0.99,2],Hortonville
-5-22-2017,17:43:59,[nachos,1.99,2],Hortonville
-3-28-2017,11:0:22,[sandwich,3.29,2],Hortonville
-11-3-2018,22:25:44,[apple,0.69,3],Hortonville
-1-27-2018,13:49:53,[bread,3.29,1],Hortonville
-12-2-2017,13:9:41,[M&Ms,0.99,2],Hortonville
-3-28-2017,18:25:54,[banana,4.99,5],Hortonville
-5-22-2017,15:22:23,[bread,3.29,2],Hortonville
-10-26-2018,8:9:9,[skittles,0.99,2],Hortonville
-2-28-2018,14:22:8,[banana,4.99,5],Hortonville
-12-9-2018,20:42:34,[M&Ms,0.99,5],Hortonville
-9-27-2017,0:8:9,[gum,0.99,5],Hortonville
-3-13-2018,21:43:15,[apple,0.69,1],Hortonville
-11-13-2018,6:30:1,[skittles,0.99,3],Hortonville
-3-20-2017,1:43:20,[banana,4.99,1],Hortonville
-2-28-2017,9:51:20,[M&Ms,0.99,4],Hortonville
-11-5-2018,19:28:48,[apple,0.69,1],Hortonville
-2-21-2017,3:7:10,[gum,0.99,1],Hortonville
-7-13-2017,23:43:10,[skittles,0.99,5],Hortonville
-10-25-2017,17:8:5,[banana,4.99,5],Hortonville
-7-29-2018,9:16:29,[chips,1.99,1],Hortonville
-10-28-2018,19:47:18,[bread,3.29,3],Hortonville
-7-4-2018,21:22:28,[bread,3.29,3],Hortonville
-8-15-2017,17:14:1,[M&Ms,0.99,2],Hortonville
-6-5-2017,13:4:37,[gum,0.99,5],Hortonville
-8-5-2017,14:12:12,[donut,2.29,1],Hortonville
-3-25-2017,19:14:29,[M&Ms,0.99,4],Hortonville
-9-11-2018,13:39:52,[apple,0.69,2],Hortonville
-2-30-2017,22:5:55,[bread,3.29,1],Hortonville
-10-2-2018,21:26:16,[apple,0.69,5],Hortonville
-10-7-2017,12:0:45,[banana,4.99,4],Hortonville
-12-11-2017,3:30:40,[apple,0.69,2],Hortonville
-10-10-2018,3:9:50,[energy drink,4.99,2],Hortonville
-5-16-2018,3:17:1,[apple,0.69,3],Hortonville
-6-22-2017,7:32:10,[muffin,2.99,4],Hortonville
-4-17-2018,7:13:34,[apple,0.69,2],Hortonville
-11-4-2017,17:55:51,[milk,5.99,4],Hortonville
-7-31-2017,23:33:51,[skittles,0.99,3],Hortonville
-3-21-2018,15:5:7,[sandwich,3.29,5],Hortonville
-5-11-2018,7:9:21,[apple,0.69,2],Hortonville
-1-6-2018,17:33:49,[M&Ms,0.99,1],Hortonville
-10-3-2017,15:48:13,[energy drink,4.99,1],Hortonville
-3-2-2017,0:31:50,[sandwich,3.29,5],Hortonville
-6-26-2018,19:2:37,[gum,0.99,3],Hortonville
-9-23-2018,0:1:3,[milk,5.99,5],Hortonville
-4-9-2017,20:5:16,[donut,2.29,2],Hortonville
-5-2-2017,22:41:57,[muffin,2.99,3],Hortonville
-2-19-2018,7:44:33,[pizza,1.99,5],Hortonville
-7-26-2018,12:10:43,[chips,1.99,4],Hortonville
-6-11-2017,3:29:5,[eggs,3.29,3],Hortonville
-3-17-2018,6:49:52,[apple,0.69,5],Hortonville
-10-27-2017,1:16:9,[nachos,1.99,2],Hortonville
-4-5-2018,0:12:6,[apple,0.69,4],Hortonville
-8-22-2018,16:29:31,[M&Ms,0.99,3],Hortonville
-11-16-2018,23:38:24,[apple,0.69,1],Hortonville
-7-22-2017,14:32:34,[muffin,2.99,5],Hortonville
-9-23-2017,10:17:12,[bread,3.29,3],Hortonville
-10-9-2017,17:44:5,[energy drink,4.99,4],Hortonville
-12-10-2018,7:37:56,[chips,1.99,3],Hortonville
-4-19-2018,13:45:12,[skittles,0.99,1],Hortonville
-11-12-2017,12:11:13,[energy drink,4.99,1],Hortonville
-3-21-2018,10:25:23,[chips,1.99,3],Hortonville
-7-30-2018,0:31:47,[muffin,2.99,2],Hortonville
-5-2-2018,3:54:24,[donut,2.29,4],Hortonville
-3-19-2018,2:28:49,[nachos,1.99,5],Hortonville
-8-15-2017,12:21:10,[eggs,3.29,1],Hortonville
-1-22-2018,14:28:50,[banana,4.99,1],Hortonville
-12-9-2018,3:34:36,[energy drink,4.99,5],Hortonville
-5-15-2017,7:33:52,[banana,4.99,5],Hortonville
-1-25-2018,16:56:44,[eggs,3.29,5],Hortonville
-6-9-2018,11:26:26,[milk,5.99,3],Hortonville
-1-24-2018,11:48:14,[chips,1.99,2],Hortonville
-4-4-2018,3:25:35,[nachos,1.99,2],Hortonville
-1-16-2017,12:53:37,[banana,4.99,2],Hortonville
-9-25-2018,21:46:3,[donut,2.29,1],Hortonville
-11-9-2018,19:10:53,[nachos,1.99,5],Hortonville
-3-2-2017,20:7:47,[eggs,3.29,2],Hortonville
-8-26-2018,15:52:28,[sandwich,3.29,4],Hortonville
-5-15-2018,5:12:33,[muffin,2.99,4],Hortonville
-10-29-2017,20:57:22,[pizza,1.99,4],Hortonville
-12-28-2018,22:14:3,[muffin,2.99,1],Hortonville
-10-10-2018,23:25:46,[eggs,3.29,5],Hortonville
-12-29-2017,5:23:33,[skittles,0.99,4],Hortonville
-7-7-2017,16:14:50,[bread,3.29,4],Hortonville
-4-23-2017,17:49:51,[energy drink,4.99,5],Hortonville
-1-25-2018,23:32:42,[gum,0.99,1],Hortonville
-10-11-2018,1:56:40,[apple,0.69,2],Hortonville
-10-18-2017,5:11:57,[apple,0.69,4],Hortonville
-8-28-2018,11:42:41,[energy drink,4.99,2],Hortonville
-10-24-2017,13:4:14,[skittles,0.99,2],Hortonville
-5-25-2017,23:42:24,[energy drink,4.99,3],Hortonville
-3-5-2018,19:2:58,[bread,3.29,2],Hortonville
-12-26-2018,10:58:23,[sandwich,3.29,1],Hortonville
-4-23-2017,8:36:32,[gum,0.99,4],Hortonville
-1-28-2017,14:23:59,[M&Ms,0.99,1],Hortonville
-4-19-2017,14:22:59,[nachos,1.99,4],Hortonville
-7-28-2018,17:5:36,[muffin,2.99,3],Hortonville
-4-31-2018,18:43:56,[apple,0.69,4],Hortonville
-5-1-2017,18:0:32,[banana,4.99,4],Hortonville
-7-12-2018,9:43:46,[gum,0.99,3],Hortonville
-2-17-2018,23:6:18,[apple,0.69,3],Hortonville
-2-9-2017,6:28:10,[pizza,1.99,4],Hortonville
-4-4-2017,6:44:14,[gum,0.99,3],Hortonville
-10-20-2018,16:39:10,[M&Ms,0.99,4],Hortonville
-4-13-2017,1:44:48,[pizza,1.99,5],Hortonville
-10-2-2017,16:44:46,[pizza,1.99,1],Hortonville
-9-28-2017,7:12:24,[nachos,1.99,3],Hortonville
-7-21-2018,1:56:46,[sandwich,3.29,3],Hortonville
-1-24-2017,21:13:41,[nachos,1.99,1],Hortonville
-7-6-2018,2:42:37,[pizza,1.99,4],Hortonville
-2-24-2017,7:8:40,[sandwich,3.29,1],Hortonville
-7-31-2018,13:13:8,[skittles,0.99,4],Hortonville
-11-22-2017,9:26:40,[energy drink,4.99,2],Hortonville
-4-20-2018,9:42:6,[M&Ms,0.99,5],Hortonville
-5-17-2018,7:56:44,[sandwich,3.29,1],Hortonville
-4-17-2018,19:29:22,[chips,1.99,1],Hortonville
-5-12-2018,1:36:6,[nachos,1.99,4],Hortonville
-5-15-2017,19:57:33,[donut,2.29,1],Hortonville
-12-15-2018,7:44:19,[M&Ms,0.99,1],Hortonville
-4-12-2017,7:16:18,[sandwich,3.29,1],Hortonville
-2-3-2017,4:27:50,[gum,0.99,2],Hortonville
-1-24-2018,0:8:39,[M&Ms,0.99,1],Hortonville
-3-20-2017,3:57:11,[energy drink,4.99,4],Hortonville
-5-2-2017,14:13:40,[banana,4.99,2],Hortonville
-7-30-2018,12:52:30,[pizza,1.99,4],Hortonville
-1-19-2018,19:55:2,[gum,0.99,5],Hortonville
-4-18-2017,15:20:33,[energy drink,4.99,2],Hortonville
-7-18-2017,10:38:17,[M&Ms,0.99,3],Hortonville
-3-19-2018,5:12:36,[eggs,3.29,1],Hortonville
-7-16-2018,13:26:28,[pizza,1.99,3],Hortonville
-6-9-2017,14:54:9,[skittles,0.99,4],Hortonville
-6-8-2017,21:0:50,[M&Ms,0.99,3],Hortonville
-2-2-2017,15:52:48,[eggs,3.29,5],Hortonville
-3-9-2018,6:54:11,[banana,4.99,3],Hortonville
-3-20-2018,5:39:50,[muffin,2.99,3],Hortonville
-4-7-2017,19:37:58,[sandwich,3.29,2],Hortonville
-11-22-2018,4:55:27,[pizza,1.99,3],Hortonville
-1-27-2018,23:32:11,[eggs,3.29,4],Hortonville
-10-14-2017,10:31:21,[banana,4.99,1],Hortonville
-11-14-2017,14:59:36,[milk,5.99,5],Hortonville
-7-30-2017,3:40:1,[banana,4.99,3],Hortonville
-12-4-2017,22:22:46,[banana,4.99,1],Hortonville
-5-18-2017,8:14:46,[muffin,2.99,1],Hortonville
-8-9-2018,22:23:55,[banana,4.99,5],Hortonville
-4-14-2018,2:40:15,[apple,0.69,1],Hortonville
-7-25-2017,8:0:24,[skittles,0.99,2],Hortonville
-1-15-2017,3:58:43,[skittles,0.99,1],Hortonville
-12-31-2018,11:52:14,[donut,2.29,2],Hortonville
-11-2-2018,3:20:6,[skittles,0.99,4],Hortonville
-1-10-2018,0:1:51,[donut,2.29,3],Hortonville
-9-7-2017,0:48:24,[nachos,1.99,2],Hortonville
-9-22-2018,20:38:40,[gum,0.99,2],Hortonville
-1-25-2017,15:25:35,[chips,1.99,1],Hortonville
-1-31-2018,9:46:15,[milk,5.99,2],Hortonville
-1-17-2018,6:45:58,[skittles,0.99,2],Hortonville
-12-1-2018,5:28:40,[M&Ms,0.99,1],Hortonville
-10-12-2018,14:51:21,[nachos,1.99,1],Hortonville
-10-23-2017,20:50:9,[gum,0.99,4],Hortonville
-5-31-2017,23:26:44,[pizza,1.99,1],Hortonville
-9-28-2018,15:47:16,[M&Ms,0.99,4],Hortonville
-2-9-2018,2:37:35,[eggs,3.29,4],Hortonville
-5-5-2018,13:12:12,[chips,1.99,1],Hortonville
-11-25-2018,23:52:27,[skittles,0.99,2],Hortonville
-7-18-2018,11:19:8,[apple,0.69,3],Hortonville
-1-9-2017,8:55:29,[muffin,2.99,2],Hortonville
-3-10-2018,13:54:39,[gum,0.99,2],Hortonville
-2-16-2017,12:4:32,[gum,0.99,1],Hortonville
-8-31-2018,2:33:36,[chips,1.99,3],Hortonville
-10-22-2017,5:39:9,[skittles,0.99,1],Hortonville
-12-30-2017,3:1:4,[nachos,1.99,2],Hortonville
-8-15-2018,11:17:49,[bread,3.29,3],Hortonville
-6-19-2017,13:35:58,[skittles,0.99,5],Hortonville
-2-24-2017,16:50:18,[M&Ms,0.99,1],Hortonville
-3-27-2017,8:58:48,[muffin,2.99,5],Hortonville
-3-15-2017,19:56:24,[M&Ms,0.99,3],Hortonville
-10-16-2017,6:51:13,[muffin,2.99,3],Hortonville
-1-14-2018,0:48:31,[sandwich,3.29,2],Hortonville
-12-8-2018,10:0:5,[skittles,0.99,5],Hortonville
-7-1-2018,7:49:48,[bread,3.29,2],Hortonville
-7-21-2018,20:55:46,[chips,1.99,3],Hortonville
-10-6-2017,10:7:6,[gum,0.99,3],Hortonville
-9-27-2018,4:40:1,[gum,0.99,1],Hortonville
-2-27-2018,3:10:4,[apple,0.69,2],Hortonville
-3-12-2018,9:14:42,[apple,0.69,5],Hortonville
-12-16-2018,6:17:5,[skittles,0.99,5],Hortonville
-11-12-2018,0:56:25,[nachos,1.99,2],Hortonville
-2-22-2017,16:21:55,[energy drink,4.99,5],Hortonville
-1-8-2018,2:45:51,[apple,0.69,2],Hortonville
-11-23-2018,19:0:28,[eggs,3.29,3],Hortonville
-4-5-2018,15:55:46,[M&Ms,0.99,3],Hortonville
-3-22-2018,15:30:55,[muffin,2.99,4],Hortonville
-6-13-2017,0:39:36,[bread,3.29,4],Hortonville
-8-18-2017,17:34:58,[skittles,0.99,3],Hortonville
-10-15-2018,11:48:28,[donut,2.29,4],Hortonville
-6-20-2017,15:21:17,[muffin,2.99,5],Hortonville
-12-24-2017,5:29:10,[sandwich,3.29,4],Hortonville
-10-29-2017,16:4:0,[bread,3.29,3],Hortonville
-8-7-2018,5:33:59,[bread,3.29,4],Hortonville
-12-22-2017,22:5:52,[gum,0.99,5],Hortonville
-1-11-2017,8:39:1,[gum,0.99,2],Hortonville
-10-12-2018,9:47:27,[skittles,0.99,2],Hortonville
-5-25-2018,15:50:55,[bread,3.29,5],Hortonville
-4-9-2018,7:51:16,[pizza,1.99,1],Hortonville
-2-11-2017,4:1:15,[M&Ms,0.99,1],Hortonville
-5-10-2018,10:0:26,[sandwich,3.29,5],Hortonville
-6-15-2018,6:16:0,[milk,5.99,1],Hortonville
-2-10-2017,4:20:21,[pizza,1.99,3],Hortonville
-6-4-2017,3:59:34,[skittles,0.99,1],Hortonville
-2-7-2017,5:41:18,[milk,5.99,5],Hortonville
-4-7-2017,17:45:23,[M&Ms,0.99,1],Hortonville
-6-29-2018,23:35:23,[banana,4.99,4],Hortonville
-2-8-2017,9:19:49,[banana,4.99,4],Hortonville
-3-28-2018,7:10:30,[eggs,3.29,2],Hortonville
-7-13-2017,20:57:49,[chips,1.99,2],Hortonville
-11-14-2017,2:56:44,[skittles,0.99,2],Hortonville
-1-24-2017,1:38:15,[energy drink,4.99,5],Hortonville
-8-3-2018,8:23:0,[skittles,0.99,3],Hortonville
-3-22-2017,19:17:43,[gum,0.99,3],Hortonville
-3-4-2017,3:41:52,[apple,0.69,4],Hortonville
-12-28-2017,22:18:20,[bread,3.29,3],Hortonville
-12-23-2018,10:21:22,[apple,0.69,5],Hortonville
-9-7-2017,12:4:0,[bread,3.29,1],Hortonville
-6-1-2017,11:54:49,[eggs,3.29,1],Hortonville
-1-21-2018,18:14:22,[energy drink,4.99,1],Hortonville
-5-15-2017,4:39:50,[skittles,0.99,3],Hortonville
-4-31-2017,4:29:15,[muffin,2.99,2],Hortonville
-6-31-2018,13:34:40,[skittles,0.99,4],Hortonville
-2-23-2018,11:39:18,[muffin,2.99,4],Hortonville
-4-16-2017,12:41:49,[pizza,1.99,3],Hortonville
-2-24-2018,22:39:45,[bread,3.29,5],Hortonville
-10-24-2017,11:51:41,[milk,5.99,4],Hortonville
-10-8-2017,2:54:38,[apple,0.69,4],Hortonville
-4-31-2017,4:20:52,[muffin,2.99,5],Hortonville
-5-4-2017,1:55:18,[pizza,1.99,2],Hortonville
-8-9-2018,0:16:57,[milk,5.99,4],Hortonville
-11-26-2017,4:2:24,[milk,5.99,2],Hortonville
-6-3-2017,19:17:50,[donut,2.29,5],Hortonville
-12-24-2018,5:13:44,[skittles,0.99,1],Hortonville
-11-3-2018,14:6:46,[donut,2.29,2],Hortonville
-4-4-2018,6:31:15,[milk,5.99,4],Hortonville
-8-25-2017,19:57:45,[muffin,2.99,4],Hortonville
-12-7-2018,6:2:52,[donut,2.29,2],Hortonville
-11-15-2017,11:2:9,[donut,2.29,2],Hortonville
-8-25-2018,22:18:24,[skittles,0.99,4],Hortonville
-3-3-2017,19:46:3,[skittles,0.99,4],Hortonville
-6-14-2018,13:19:3,[M&Ms,0.99,5],Hortonville
-1-6-2018,9:16:16,[eggs,3.29,3],Hortonville
-2-24-2018,20:20:1,[banana,4.99,3],Hortonville
-3-26-2018,18:33:33,[M&Ms,0.99,3],Hortonville
-4-8-2018,7:27:35,[apple,0.69,5],Hortonville
-8-18-2017,15:23:31,[nachos,1.99,3],Hortonville
-6-29-2018,21:58:1,[banana,4.99,4],Hortonville
-1-18-2018,14:51:42,[pizza,1.99,1],Hortonville
-5-10-2018,6:4:52,[muffin,2.99,5],Hortonville
-9-1-2017,18:33:36,[sandwich,3.29,1],Hortonville
-5-15-2018,7:6:41,[sandwich,3.29,2],Hortonville
-3-14-2018,16:48:11,[bread,3.29,4],Hortonville
-4-28-2017,0:23:41,[pizza,1.99,1],Hortonville
-6-3-2017,21:19:0,[bread,3.29,3],Hortonville
-1-19-2018,3:43:22,[banana,4.99,2],Hortonville
-2-11-2018,16:41:16,[M&Ms,0.99,5],Hortonville
-3-12-2017,0:13:20,[sandwich,3.29,3],Hortonville
-9-27-2017,23:28:23,[donut,2.29,1],Hortonville
-4-25-2018,20:28:8,[M&Ms,0.99,5],Hortonville
-5-10-2018,0:15:7,[skittles,0.99,5],Hortonville
-3-15-2018,1:59:22,[bread,3.29,1],Hortonville
-8-13-2018,19:10:1,[milk,5.99,2],Hortonville
-11-21-2017,17:15:28,[pizza,1.99,2],Hortonville
-7-27-2018,6:35:37,[gum,0.99,4],Hortonville
-12-25-2018,21:16:7,[muffin,2.99,4],Hortonville
-5-12-2018,11:20:24,[M&Ms,0.99,3],Hortonville
-9-18-2018,20:58:52,[bread,3.29,5],Hortonville
-1-20-2017,7:58:31,[pizza,1.99,4],Hortonville
-5-26-2017,0:52:13,[muffin,2.99,5],Hortonville
-11-21-2018,2:30:17,[milk,5.99,3],Hortonville
-2-8-2018,22:4:23,[donut,2.29,3],Hortonville
-5-19-2018,6:13:59,[nachos,1.99,3],Hortonville
-9-15-2018,3:10:7,[muffin,2.99,4],Hortonville
-3-17-2017,5:14:7,[skittles,0.99,3],Hortonville
-5-8-2017,17:14:17,[bread,3.29,2],Hortonville
-9-16-2018,13:7:42,[donut,2.29,4],Hortonville
-12-16-2017,16:31:53,[donut,2.29,3],Hortonville
-3-28-2017,21:33:29,[skittles,0.99,5],Hortonville
-5-19-2018,18:42:19,[eggs,3.29,4],Hortonville
-10-25-2018,20:13:22,[chips,1.99,1],Hortonville
-8-11-2018,1:55:58,[gum,0.99,1],Hortonville
-2-30-2018,23:44:5,[muffin,2.99,5],Hortonville
-12-18-2017,15:47:22,[gum,0.99,2],Hortonville
-1-18-2018,8:3:3,[eggs,3.29,5],Hortonville
-7-25-2018,20:53:52,[chips,1.99,1],Hortonville
-11-15-2017,10:55:13,[muffin,2.99,5],Hortonville
-2-4-2018,17:45:23,[pizza,1.99,2],Hortonville
-6-26-2017,14:25:46,[apple,0.69,3],Hortonville
-1-26-2018,14:50:37,[apple,0.69,5],Hortonville
-6-30-2017,21:57:0,[apple,0.69,5],Hortonville
-7-1-2018,2:3:4,[skittles,0.99,3],Hortonville
-9-26-2018,21:27:14,[muffin,2.99,5],Hortonville
-4-28-2017,19:50:40,[sandwich,3.29,2],Hortonville
-1-6-2018,10:41:40,[nachos,1.99,1],Hortonville
-10-22-2018,17:28:22,[gum,0.99,4],Hortonville
-5-4-2018,0:0:47,[bread,3.29,5],Hortonville
-6-19-2017,22:50:38,[energy drink,4.99,4],Hortonville
-10-9-2018,3:30:40,[donut,2.29,1],Hortonville
-11-11-2018,15:0:6,[apple,0.69,2],Hortonville
-10-1-2018,13:45:50,[energy drink,4.99,5],Hortonville
-7-8-2018,23:49:51,[bread,3.29,5],Hortonville
-11-15-2017,16:46:30,[eggs,3.29,4],Hortonville
-4-9-2017,13:7:5,[chips,1.99,5],Hortonville
-3-13-2018,20:37:11,[banana,4.99,4],Hortonville
-5-20-2018,19:9:46,[muffin,2.99,3],Hortonville
-5-10-2017,3:46:27,[bread,3.29,4],Hortonville
-12-23-2018,19:0:32,[eggs,3.29,1],Hortonville
-5-18-2017,11:27:47,[error,3.0,2],Hortonville
-5-30-2017,10:11:52,[error,3.0,3],Hortonville
-2-18-2017,12:58:8,[error,3.0,3],Hortonville
-11-13-2018,15:43:3,[error,3.0,3],Hortonville
+4-2-2018,11:41:50,[Skittles,0.0,4],Hortonville
+1-22-2018,22:1:24,[Energy drink,0.0,3],Appleton North
+8-24-2017,11:26:50,[Eggs,0.0,1],Hortonville
+7-5-2018,21:55:35,[Nachos,0.0,1],Hortonville
+6-18-2017,9:5:11,[Milk,0.0,5],Hortonville
+6-2-2017,5:35:36,[Muffin,0.0,2],Hortonville
+11-30-2018,18:12:47,[Nachos,0.0,2],Hortonville
+4-31-2018,19:14:3,[Gum,0.0,1],Appleton North
+2-24-2018,14:40:37,[Gum,0.0,3],Hortonville
+10-4-2018,10:7:41,[Apple,0.0,5],Hortonville
+11-7-2017,11:38:21,[Nachos,0.0,2],Appleton North
+2-31-2018,11:32:49,[Banana,0.0,5],Hortonville
+6-17-2018,13:37:0,[Skittles,0.0,5],Hortonville
+5-9-2018,14:59:16,[Muffin,0.0,1],Hortonville
+11-22-2018,18:25:35,[M&Ms,0.99,1],Hortonville
+2-19-2017,6:44:13,[Milk,0.0,4],Appleton North
+7-28-2018,21:41:36,[Bread,0.0,1],Appleton North
+11-6-2018,1:7:34,[Milk,0.0,3],Appleton North
+4-13-2018,4:44:11,[Donut,0.0,3],Appleton North
+3-12-2017,15:4:5,[Milk,0.0,2],Appleton North
+11-8-2018,17:37:16,[Muffin,0.0,4],Appleton North
+4-18-2018,12:22:27,[Nachos,0.0,2],Hortonville
+11-30-2017,8:25:8,[Apple,0.0,2],Hortonville
+1-9-2017,7:4:0,[M&Ms,0.99,4],Hortonville
+4-29-2017,3:54:49,[Gum,0.0,3],Appleton North
+8-26-2018,1:37:11,[Skittles,0.0,3],Appleton North
+2-6-2018,7:1:26,[Pizza,0.0,2],Hortonville
+7-15-2017,14:47:18,[Eggs,0.0,3],Hortonville
+12-9-2018,14:47:29,[Apple,0.0,2],Hortonville
+6-19-2018,0:53:11,[M&Ms,0.99,4],Appleton North
+7-24-2018,10:26:49,[Energy drink,0.0,1],Hortonville
+8-20-2018,5:36:38,[Muffin,0.0,1],Appleton North
+3-13-2018,7:2:51,[Skittles,0.0,4],Appleton North
+11-16-2018,8:52:2,[Skittles,0.0,4],Hortonville
+3-13-2017,9:0:51,[Banana,0.0,2],Hortonville
+2-21-2018,10:21:1,[Chips,0.0,4],Hortonville
+5-13-2017,3:36:14,[M&Ms,0.99,1],Hortonville
+1-30-2018,16:57:45,[Eggs,0.0,2],Hortonville
+7-27-2017,17:7:56,[Muffin,0.0,3],Hortonville
+12-8-2018,13:34:55,[Donut,0.0,3],Hortonville
+7-30-2018,4:15:39,[Energy drink,0.0,1],Hortonville
+11-20-2017,19:30:5,[Chips,0.0,1],Appleton North
+4-17-2017,7:46:54,[Sandwich,0.0,3],Appleton North
+7-6-2018,20:19:54,[Banana,0.0,3],Appleton North
+10-7-2017,13:3:55,[Energy drink,0.0,5],Appleton North
+9-24-2017,20:0:10,[Milk,0.0,2],Appleton North
+3-11-2017,23:43:22,[Sandwich,0.0,4],Appleton North
+4-1-2017,2:43:36,[Apple,0.0,3],Appleton North
+3-13-2018,17:52:15,[Chips,0.0,2],Hortonville
+2-19-2018,6:28:53,[Bread,0.0,2],Hortonville
+4-17-2017,20:6:59,[Chips,0.0,2],Appleton North
+6-7-2017,4:7:16,[Skittles,0.0,1],Appleton North
+3-7-2018,11:32:38,[Chips,0.0,3],Hortonville
+11-27-2017,20:57:55,[Nachos,0.0,3],Hortonville
+2-2-2017,1:34:22,[Muffin,0.0,5],Appleton North
+10-12-2017,2:46:8,[Sandwich,0.0,4],Hortonville
+4-26-2018,9:26:51,[Pizza,0.0,4],Hortonville
+12-13-2018,18:12:6,[Sandwich,0.0,4],Appleton North
+3-31-2017,0:25:5,[Energy drink,0.0,4],Appleton North
+12-7-2018,6:8:12,[Eggs,0.0,5],Hortonville
+12-27-2018,8:18:43,[M&Ms,0.99,2],Appleton North
+6-9-2017,0:53:33,[Banana,0.0,1],Appleton North
+11-8-2017,19:19:16,[Apple,0.0,2],Hortonville
+5-17-2017,22:17:22,[Skittles,0.0,5],Hortonville
+5-29-2018,13:49:1,[Apple,0.0,2],Hortonville
+4-30-2018,12:55:5,[Milk,0.0,2],Appleton North
+12-10-2017,13:29:32,[Energy drink,0.0,1],Hortonville
+8-17-2017,15:20:52,[Donut,0.0,2],Hortonville
+2-9-2018,22:10:25,[M&Ms,0.99,3],Hortonville
+2-7-2017,4:28:21,[Donut,0.0,3],Hortonville
+3-25-2017,7:28:24,[Donut,0.0,2],Hortonville
+7-20-2018,21:16:33,[Eggs,0.0,2],Hortonville
+10-2-2017,5:35:2,[Gum,0.0,4],Hortonville
+10-24-2017,20:12:0,[Milk,0.0,1],Hortonville
+12-3-2017,5:51:19,[Muffin,0.0,2],Hortonville
+4-31-2018,7:7:21,[Nachos,0.0,2],Hortonville
+10-29-2017,15:45:25,[Skittles,0.0,5],Hortonville
+7-2-2017,20:30:51,[Gum,0.0,3],Appleton North
+6-18-2018,5:39:56,[Sandwich,0.0,1],Appleton North
+10-2-2017,9:10:10,[Nachos,0.0,3],Appleton North
+3-26-2018,6:17:27,[Bread,0.0,4],Appleton North
+11-19-2017,3:48:45,[Donut,0.0,4],Hortonville
+4-24-2018,10:6:27,[Bread,0.0,1],Appleton North
+4-5-2018,6:33:41,[Muffin,0.0,1],Appleton North
+10-30-2017,11:57:13,[Muffin,0.0,5],Appleton North
+4-8-2018,2:16:34,[Sandwich,0.0,2],Hortonville
+9-20-2018,16:10:54,[Chips,0.0,1],Hortonville
+4-18-2017,8:39:13,[Chips,0.0,5],Hortonville
+2-6-2018,0:11:49,[M&Ms,0.99,3],Hortonville
+3-17-2018,12:31:37,[Nachos,0.0,4],Appleton North
+1-7-2017,9:50:53,[Milk,0.0,4],Hortonville
+2-10-2017,8:50:25,[Bread,0.0,2],Hortonville
+11-13-2018,13:2:35,[M&Ms,0.99,5],Appleton North
+12-29-2018,6:2:26,[M&Ms,0.99,5],Hortonville
+12-17-2017,3:19:4,[Donut,0.0,4],Hortonville
+7-15-2018,0:46:18,[M&Ms,0.99,3],Hortonville
+11-30-2017,0:49:34,[Donut,0.0,2],Hortonville
+12-15-2018,17:29:41,[Banana,0.0,2],Hortonville
+9-1-2018,14:28:27,[Gum,0.0,4],Appleton North
+7-5-2018,15:15:21,[Energy drink,0.0,1],Appleton North
+10-7-2017,7:49:50,[M&Ms,0.99,4],Appleton North
+6-15-2017,2:15:33,[Energy drink,0.0,2],Hortonville
+10-5-2018,16:0:8,[Apple,0.0,4],Hortonville
+1-28-2017,0:59:6,[Chips,0.0,5],Hortonville
+9-9-2017,10:1:8,[Chips,0.0,3],Hortonville
+2-24-2018,16:28:57,[Sandwich,0.0,3],Appleton North
+5-6-2017,5:41:21,[Chips,0.0,4],Hortonville
+1-15-2017,15:18:54,[Banana,0.0,1],Hortonville
+11-31-2018,2:37:0,[Energy drink,0.0,3],Hortonville
+12-4-2018,17:0:34,[Banana,0.0,1],Hortonville
+10-29-2018,4:5:39,[M&Ms,0.99,3],Hortonville
+5-24-2018,18:21:39,[Eggs,0.0,4],Appleton North
+12-3-2018,13:47:9,[Banana,0.0,1],Hortonville
+11-26-2017,2:32:13,[Gum,0.0,4],Appleton North
+7-23-2017,11:55:46,[Milk,0.0,5],Appleton North
+5-4-2017,17:19:30,[Skittles,0.0,5],Hortonville
+12-20-2018,16:10:4,[Banana,0.0,2],Appleton North
+12-1-2017,5:6:23,[M&Ms,0.99,1],Hortonville
+9-23-2018,6:1:23,[Sandwich,0.0,5],Hortonville
+3-6-2018,2:47:4,[Sandwich,0.0,4],Hortonville
+5-22-2018,22:34:54,[Apple,0.0,1],Hortonville
+10-29-2018,22:43:39,[Banana,0.0,5],Appleton North
+1-28-2018,20:15:58,[Muffin,0.0,3],Appleton North
+1-4-2018,7:15:39,[Milk,0.0,4],Hortonville
+4-22-2018,6:22:59,[Skittles,0.0,5],Hortonville
+7-18-2018,23:32:35,[Eggs,0.0,3],Appleton North
+9-20-2018,0:13:18,[Milk,0.0,2],Hortonville
+3-11-2018,2:27:9,[Apple,0.0,4],Hortonville
+2-15-2017,13:23:54,[Banana,0.0,2],Hortonville
+9-2-2018,22:14:12,[Sandwich,0.0,3],Hortonville
+8-3-2018,15:22:24,[M&Ms,0.99,2],Hortonville
+8-9-2018,12:55:10,[Energy drink,0.0,1],Appleton North
+4-19-2018,20:3:44,[Pizza,0.0,1],Appleton North
+5-8-2017,13:20:4,[Pizza,0.0,3],Hortonville
+4-26-2018,4:47:59,[Chips,0.0,2],Hortonville
+7-26-2017,17:4:12,[M&Ms,0.99,2],Appleton North
+12-10-2017,17:28:46,[M&Ms,0.99,1],Hortonville
+11-3-2018,19:27:38,[Bread,0.0,4],Appleton North
+4-11-2017,1:6:30,[Chips,0.0,5],Hortonville
+6-23-2017,12:30:53,[Eggs,0.0,1],Appleton North
+6-22-2018,20:27:9,[Bread,0.0,5],Hortonville
+7-23-2017,11:59:27,[Skittles,0.0,3],Hortonville
+6-9-2018,15:55:48,[Apple,0.0,3],Hortonville
+5-21-2018,22:36:52,[Apple,0.0,4],Hortonville
+12-18-2017,23:41:0,[Eggs,0.0,2],Appleton North
+10-22-2017,18:34:22,[Apple,0.0,4],Hortonville
+8-21-2017,16:57:24,[Donut,0.0,5],Appleton North
+8-31-2017,3:28:35,[Apple,0.0,4],Appleton North
+12-28-2017,9:46:56,[Skittles,0.0,1],Hortonville
+6-15-2018,7:20:41,[Banana,0.0,3],Hortonville
+7-12-2018,19:38:23,[Apple,0.0,2],Hortonville
+1-12-2017,22:41:15,[Donut,0.0,2],Hortonville
+12-20-2017,16:25:17,[Banana,0.0,4],Appleton North
+3-25-2017,12:58:2,[Banana,0.0,1],Appleton North
+8-27-2017,16:2:14,[Milk,0.0,5],Hortonville
+10-29-2017,7:39:32,[Chips,0.0,5],Appleton North
+4-15-2018,7:26:15,[Eggs,0.0,2],Appleton North
+12-13-2017,19:45:27,[Muffin,0.0,4],Hortonville
+9-15-2018,16:12:56,[Pizza,0.0,3],Hortonville
+2-5-2018,1:24:58,[Donut,0.0,5],Appleton North
+6-28-2017,17:13:41,[Pizza,0.0,4],Appleton North
+8-23-2017,11:20:49,[Sandwich,0.0,4],Appleton North
+11-4-2018,2:14:33,[Pizza,0.0,4],Hortonville
+11-11-2018,22:57:3,[Donut,0.0,3],Appleton North
+3-10-2018,16:31:36,[Apple,0.0,5],Hortonville
+1-8-2017,13:59:43,[Apple,0.0,2],Appleton North
+9-11-2017,21:58:44,[Chips,0.0,2],Appleton North
+1-28-2017,11:57:27,[Pizza,0.0,1],Appleton North
+10-15-2018,18:7:13,[Banana,0.0,5],Appleton North
+11-26-2018,20:24:24,[Bread,0.0,3],Appleton North
+7-15-2017,6:44:9,[Nachos,0.0,5],Hortonville
+12-17-2017,5:58:49,[Bread,0.0,5],Hortonville
+12-7-2018,21:41:20,[Pizza,0.0,3],Hortonville
+8-3-2018,6:18:10,[Chips,0.0,2],Hortonville
+9-26-2017,22:49:35,[Donut,0.0,2],Hortonville
+8-8-2017,18:36:14,[Muffin,0.0,4],Hortonville
+5-8-2018,17:32:23,[Apple,0.0,2],Appleton North
+3-1-2017,15:29:51,[Muffin,0.0,3],Appleton North
+11-12-2018,21:34:11,[M&Ms,0.99,5],Appleton North
+5-6-2017,20:27:11,[Sandwich,0.0,1],Hortonville
+4-24-2017,16:26:18,[Sandwich,0.0,4],Hortonville
+1-14-2018,20:13:42,[Muffin,0.0,1],Hortonville
+2-25-2018,20:0:26,[Milk,0.0,4],Hortonville
+9-22-2018,3:29:32,[Gum,0.0,4],Hortonville
+9-23-2018,16:44:9,[Skittles,0.0,4],Appleton North
+3-13-2018,10:43:3,[Pizza,0.0,1],Hortonville
+6-24-2017,8:46:30,[Donut,0.0,5],Hortonville
+8-11-2017,9:33:7,[M&Ms,0.99,5],Hortonville
+3-12-2018,1:56:12,[Apple,0.0,3],Hortonville
+7-8-2018,1:31:46,[Milk,0.0,5],Hortonville
+8-24-2018,0:37:57,[Banana,0.0,5],Hortonville
+1-22-2017,17:43:41,[Skittles,0.0,1],Hortonville
+9-7-2018,2:11:49,[Apple,0.0,3],Hortonville
+6-5-2017,8:51:1,[Banana,0.0,5],Appleton North
+9-29-2017,23:32:22,[Eggs,0.0,3],Hortonville
+5-4-2018,8:57:20,[Eggs,0.0,2],Appleton North
+9-18-2018,22:52:12,[Eggs,0.0,3],Hortonville
+12-31-2018,18:1:0,[Muffin,0.0,4],Hortonville
+9-26-2018,3:34:10,[Milk,0.0,3],Appleton North
+4-17-2017,7:21:58,[Pizza,0.0,5],Hortonville
+10-18-2017,12:15:19,[Chips,0.0,3],Hortonville
+11-14-2018,21:0:49,[Pizza,0.0,4],Hortonville
+11-24-2017,7:48:30,[Apple,0.0,5],Appleton North
+7-26-2017,21:46:58,[Sandwich,0.0,3],Hortonville
+3-21-2018,1:11:1,[Nachos,0.0,5],Appleton North
+6-10-2018,6:19:25,[Nachos,0.0,2],Appleton North
+5-2-2017,13:1:13,[Muffin,0.0,5],Appleton North
+12-13-2018,4:40:22,[Donut,0.0,4],Appleton North
+3-22-2018,11:53:29,[Donut,0.0,4],Appleton North
+10-14-2017,8:53:23,[Nachos,0.0,1],Hortonville
+10-11-2017,6:58:16,[Energy drink,0.0,5],Hortonville
+3-5-2017,0:22:21,[Pizza,0.0,1],Appleton North
+5-25-2018,21:45:26,[Skittles,0.0,4],Hortonville
+9-23-2018,15:37:2,[Eggs,0.0,3],Hortonville
+7-8-2018,21:22:3,[Banana,0.0,1],Appleton North
+5-17-2018,14:19:30,[Gum,0.0,3],Appleton North
+4-15-2018,23:29:41,[Donut,0.0,4],Hortonville
+5-13-2018,17:57:55,[Banana,0.0,5],Hortonville
+10-6-2018,5:2:24,[Eggs,0.0,5],Appleton North
+4-2-2017,7:55:27,[Sandwich,0.0,2],Hortonville
+3-2-2017,21:49:14,[Gum,0.0,1],Appleton North
+11-6-2018,12:23:4,[Bread,0.0,3],Appleton North
+9-4-2018,12:48:18,[Donut,0.0,1],Hortonville
+8-2-2018,5:46:39,[Sandwich,0.0,1],Appleton North
+5-2-2018,23:59:26,[Chips,0.0,3],Appleton North
+2-4-2017,2:57:9,[Sandwich,0.0,1],Hortonville
+12-10-2018,12:53:45,[Milk,0.0,4],Hortonville
+1-6-2018,2:50:27,[Chips,0.0,4],Hortonville
+12-5-2018,9:30:33,[Energy drink,0.0,3],Appleton North
+1-12-2017,19:59:32,[M&Ms,0.99,5],Appleton North
+10-1-2018,22:16:5,[Eggs,0.0,3],Appleton North
+5-30-2018,0:34:55,[Sandwich,0.0,2],Appleton North
+11-3-2018,15:0:23,[Skittles,0.0,4],Hortonville
+10-2-2018,4:38:11,[Sandwich,0.0,4],Appleton North
+7-28-2018,7:56:39,[Sandwich,0.0,4],Appleton North
+9-8-2017,11:6:47,[Apple,0.0,5],Appleton North
+10-7-2018,8:0:44,[Bread,0.0,4],Hortonville
+9-31-2017,15:19:26,[Gum,0.0,3],Appleton North
+11-30-2018,16:6:55,[Bread,0.0,4],Appleton North
+8-8-2017,10:0:30,[Pizza,0.0,3],Hortonville
+7-3-2018,18:6:13,[Apple,0.0,2],Appleton North
+3-31-2017,14:37:21,[Banana,0.0,1],Hortonville
+2-18-2018,23:55:15,[Chips,0.0,4],Appleton North
+9-1-2017,14:15:30,[Energy drink,0.0,2],Appleton North
+2-30-2017,8:54:23,[Bread,0.0,4],Appleton North
+7-28-2018,19:24:15,[Muffin,0.0,4],Hortonville
+10-7-2017,23:1:47,[Energy drink,0.0,2],Hortonville
+7-22-2017,23:30:3,[Banana,0.0,2],Appleton North
+11-26-2017,13:26:9,[Banana,0.0,1],Appleton North
+11-19-2018,7:30:25,[M&Ms,0.99,3],Appleton North
+6-19-2017,1:10:28,[Eggs,0.0,2],Hortonville
+1-4-2017,15:27:5,[Energy drink,0.0,2],Appleton North
+7-5-2017,12:12:15,[Energy drink,0.0,3],Appleton North
+10-31-2017,15:54:12,[M&Ms,0.99,5],Appleton North
+5-2-2017,8:46:58,[Chips,0.0,4],Hortonville
+1-31-2018,20:27:11,[Sandwich,0.0,5],Hortonville
+5-21-2018,17:5:4,[Milk,0.0,2],Hortonville
+5-3-2018,20:16:58,[Nachos,0.0,5],Appleton North
+2-11-2018,16:52:57,[Pizza,0.0,5],Hortonville
+2-16-2017,6:6:27,[Sandwich,0.0,4],Hortonville
+4-11-2017,21:23:1,[M&Ms,0.99,2],Appleton North
+12-4-2017,2:32:41,[Muffin,0.0,1],Appleton North
+5-9-2018,19:9:16,[Energy drink,0.0,5],Hortonville
+10-15-2018,2:48:3,[Energy drink,0.0,3],Hortonville
+10-3-2018,3:6:20,[Gum,0.0,2],Appleton North
+2-4-2018,11:39:5,[Gum,0.0,5],Hortonville
+5-27-2017,11:52:36,[Energy drink,0.0,3],Hortonville
+12-24-2017,17:32:32,[Energy drink,0.0,3],Appleton North
+3-31-2017,10:11:2,[Energy drink,0.0,1],Appleton North
+7-23-2017,21:41:32,[Chips,0.0,4],Hortonville
+12-28-2017,15:46:59,[Pizza,0.0,3],Hortonville
+5-8-2017,22:2:7,[Gum,0.0,1],Appleton North
+2-9-2018,13:10:24,[Muffin,0.0,5],Hortonville
+7-23-2017,5:4:13,[Chips,0.0,1],Appleton North
+4-27-2017,16:32:7,[Banana,0.0,1],Hortonville
+12-31-2017,8:25:0,[M&Ms,0.99,1],Hortonville
+9-25-2017,15:32:5,[Energy drink,0.0,2],Hortonville
+1-16-2017,19:35:21,[Energy drink,0.0,1],Hortonville
+8-11-2017,6:4:14,[Energy drink,0.0,5],Hortonville
+4-30-2018,14:53:55,[Pizza,0.0,1],Appleton North
+2-16-2017,2:47:53,[Apple,0.0,1],Hortonville
+4-8-2017,23:21:18,[Eggs,0.0,4],Appleton North
+9-12-2017,11:3:13,[Skittles,0.0,4],Appleton North
+7-20-2018,20:59:36,[Eggs,0.0,5],Appleton North
+12-10-2018,20:2:46,[Eggs,0.0,2],Hortonville
+4-21-2017,13:52:49,[Bread,0.0,2],Hortonville
+8-3-2017,12:6:2,[Eggs,0.0,5],Appleton North
+4-24-2017,3:30:3,[Banana,0.0,5],Appleton North
+4-31-2018,14:24:33,[Eggs,0.0,3],Hortonville
+10-23-2018,10:3:6,[Apple,0.0,2],Appleton North
+10-8-2018,19:49:43,[Pizza,0.0,3],Hortonville
+9-29-2017,20:8:35,[Milk,0.0,2],Hortonville
+9-29-2018,1:47:18,[Donut,0.0,4],Appleton North
+5-10-2017,23:42:1,[Apple,0.0,5],Appleton North
+6-25-2017,22:33:37,[Donut,0.0,1],Hortonville
+11-6-2017,17:23:14,[Donut,0.0,2],Hortonville
+3-13-2018,21:46:43,[Energy drink,0.0,4],Appleton North
+3-31-2018,22:43:53,[Chips,0.0,2],Appleton North
+5-8-2017,16:19:19,[Muffin,0.0,4],Hortonville
+11-1-2018,6:24:45,[Muffin,0.0,2],Hortonville
+12-7-2017,10:34:40,[Skittles,0.0,4],Hortonville
+11-21-2017,11:15:39,[Milk,0.0,4],Appleton North
+4-21-2018,13:39:44,[Apple,0.0,2],Hortonville
+10-4-2017,8:38:25,[Chips,0.0,1],Appleton North
+1-23-2018,20:22:40,[Apple,0.0,2],Hortonville
+4-3-2018,6:30:11,[Banana,0.0,5],Appleton North
+8-21-2018,5:3:20,[Nachos,0.0,5],Hortonville
+9-29-2018,23:37:36,[Nachos,0.0,1],Hortonville
+10-14-2018,8:28:16,[M&Ms,0.99,4],Hortonville
+6-27-2017,16:44:23,[M&Ms,0.99,3],Appleton North
+3-14-2018,12:15:5,[Energy drink,0.0,1],Appleton North
+9-16-2018,14:6:12,[Banana,0.0,2],Appleton North
+9-26-2018,7:8:21,[Bread,0.0,3],Appleton North
+8-26-2017,11:51:55,[Sandwich,0.0,4],Hortonville
+8-29-2018,11:53:5,[Energy drink,0.0,2],Appleton North
+7-9-2017,7:36:8,[Nachos,0.0,3],Appleton North
+7-9-2018,5:56:57,[Pizza,0.0,4],Appleton North
+8-3-2018,23:42:1,[Bread,0.0,2],Appleton North
+11-20-2018,13:39:37,[Banana,0.0,2],Appleton North
+1-10-2017,21:47:3,[Nachos,0.0,3],Appleton North
+12-19-2017,0:5:4,[Donut,0.0,1],Hortonville
+7-15-2018,7:35:40,[Energy drink,0.0,2],Hortonville
+7-17-2018,22:34:14,[Chips,0.0,4],Hortonville
+7-23-2017,18:26:47,[Chips,0.0,3],Appleton North
+10-10-2017,13:3:28,[Donut,0.0,4],Hortonville
+5-2-2017,18:7:53,[Apple,0.0,3],Hortonville
+6-12-2018,0:46:8,[Apple,0.0,4],Appleton North
+10-11-2018,22:5:56,[Muffin,0.0,3],Hortonville
+3-15-2017,4:22:41,[Banana,0.0,3],Appleton North
+6-9-2017,2:59:18,[Energy drink,0.0,5],Hortonville
+6-1-2018,2:42:45,[Skittles,0.0,2],Hortonville
+7-1-2017,17:56:49,[Banana,0.0,4],Appleton North
+4-6-2017,3:30:27,[Apple,0.0,5],Appleton North
+12-29-2018,4:33:53,[Nachos,0.0,1],Hortonville
+8-20-2017,18:4:39,[Milk,0.0,3],Hortonville
+7-5-2018,14:28:56,[Eggs,0.0,3],Appleton North
+9-21-2017,2:11:34,[Nachos,0.0,4],Hortonville
+4-17-2017,22:16:39,[Skittles,0.0,1],Appleton North
+7-8-2018,19:37:50,[Sandwich,0.0,1],Hortonville
+12-27-2017,2:26:2,[Pizza,0.0,4],Hortonville
+8-16-2018,13:35:36,[Milk,0.0,3],Appleton North
+11-13-2018,16:8:52,[Eggs,0.0,2],Hortonville
+1-20-2017,15:40:9,[Chips,0.0,2],Hortonville
+11-20-2018,20:54:56,[Banana,0.0,3],Appleton North
+6-30-2018,13:8:9,[Gum,0.0,1],Hortonville
+7-12-2017,9:4:43,[Skittles,0.0,3],Appleton North
+7-20-2018,4:59:31,[Eggs,0.0,1],Appleton North
+6-24-2018,6:1:57,[Nachos,0.0,4],Appleton North
+6-29-2017,2:58:35,[Eggs,0.0,2],Appleton North
+2-12-2018,9:37:47,[Donut,0.0,2],Hortonville
+9-4-2017,0:24:2,[Gum,0.0,2],Hortonville
+6-5-2017,5:32:30,[Donut,0.0,3],Hortonville
+8-26-2018,2:22:16,[M&Ms,0.99,4],Appleton North
+11-31-2017,16:24:44,[Banana,0.0,4],Appleton North
+1-29-2017,12:18:13,[Eggs,0.0,5],Hortonville
+6-5-2018,19:59:13,[Skittles,0.0,4],Appleton North
+7-15-2018,20:29:3,[Gum,0.0,2],Appleton North
+5-27-2017,15:19:55,[Apple,0.0,1],Appleton North
+10-21-2017,14:56:56,[Chips,0.0,4],Hortonville
+4-2-2017,13:22:52,[Banana,0.0,4],Appleton North
+3-16-2017,2:17:2,[Banana,0.0,4],Hortonville
+10-20-2018,23:29:52,[Donut,0.0,3],Hortonville
+6-22-2018,11:55:51,[Eggs,0.0,1],Appleton North
+10-19-2018,12:38:29,[Muffin,0.0,2],Appleton North
+4-8-2018,20:41:24,[Energy drink,0.0,1],Hortonville
+4-11-2017,22:6:59,[Sandwich,0.0,2],Appleton North
+12-19-2018,9:47:19,[Pizza,0.0,2],Hortonville
+9-23-2018,23:12:56,[Eggs,0.0,1],Appleton North
+5-3-2018,20:1:33,[Milk,0.0,5],Appleton North
+2-5-2017,15:8:46,[Apple,0.0,3],Hortonville
+2-18-2017,23:5:5,[Pizza,0.0,2],Hortonville
+9-20-2017,5:32:32,[Apple,0.0,3],Hortonville
+7-11-2018,4:29:41,[Chips,0.0,2],Hortonville
+9-11-2018,18:10:27,[Gum,0.0,5],Hortonville
+9-11-2017,5:36:22,[Eggs,0.0,1],Appleton North
+8-2-2017,1:20:34,[Sandwich,0.0,5],Appleton North
+8-22-2018,10:17:5,[M&Ms,0.99,1],Hortonville
+10-5-2018,10:2:47,[Banana,0.0,4],Appleton North
+2-28-2017,23:35:59,[Milk,0.0,1],Appleton North
+7-13-2018,22:53:55,[Gum,0.0,5],Appleton North
+10-6-2018,14:23:8,[Nachos,0.0,2],Hortonville
+1-18-2017,23:1:33,[Milk,0.0,1],Appleton North
+1-3-2017,23:9:41,[Skittles,0.0,4],Appleton North
+4-17-2018,13:41:49,[Bread,0.0,4],Hortonville
+11-26-2018,9:15:13,[Banana,0.0,2],Appleton North
+6-23-2018,10:32:55,[Pizza,0.0,4],Hortonville
+5-12-2018,20:15:52,[Chips,0.0,5],Appleton North
+1-28-2018,19:26:49,[Muffin,0.0,3],Hortonville
+2-2-2017,15:58:57,[Sandwich,0.0,4],Appleton North
+12-7-2018,21:5:35,[Banana,0.0,1],Appleton North
+3-2-2018,14:40:19,[Pizza,0.0,1],Hortonville
+9-21-2017,6:45:22,[Bread,0.0,1],Hortonville
+9-15-2018,6:39:19,[Eggs,0.0,1],Hortonville
+7-1-2017,2:18:34,[Sandwich,0.0,5],Appleton North
+7-11-2017,22:11:38,[Pizza,0.0,5],Appleton North
+5-30-2018,4:34:24,[Nachos,0.0,2],Hortonville
+11-31-2018,14:56:44,[M&Ms,0.99,5],Hortonville
+4-24-2017,22:42:56,[Apple,0.0,2],Hortonville
+12-30-2018,22:51:31,[Nachos,0.0,5],Hortonville
+2-1-2017,2:50:3,[Pizza,0.0,4],Appleton North
+4-22-2018,5:57:2,[Pizza,0.0,1],Appleton North
+4-29-2017,2:31:58,[Gum,0.0,2],Appleton North
+1-13-2018,16:48:6,[Donut,0.0,5],Appleton North
+10-8-2017,22:55:22,[Milk,0.0,3],Hortonville
+2-29-2018,19:21:4,[Skittles,0.0,3],Appleton North
+11-4-2018,7:34:18,[M&Ms,0.99,3],Hortonville
+9-6-2018,1:15:53,[Muffin,0.0,3],Appleton North
+4-22-2017,21:7:32,[Bread,0.0,1],Appleton North
+2-20-2017,4:48:9,[Apple,0.0,5],Hortonville
+5-31-2017,6:1:19,[Chips,0.0,5],Hortonville
+8-5-2018,11:32:2,[Banana,0.0,5],Appleton North
+4-22-2017,13:58:5,[Milk,0.0,2],Appleton North
+8-6-2018,22:30:49,[Banana,0.0,3],Appleton North
+11-2-2018,17:39:42,[M&Ms,0.99,5],Hortonville
+1-2-2017,17:21:13,[Muffin,0.0,1],Appleton North
+12-10-2017,17:8:0,[Energy drink,0.0,4],Appleton North
+9-13-2017,5:21:26,[Donut,0.0,2],Appleton North
+6-16-2018,8:53:51,[Eggs,0.0,5],Appleton North
+12-10-2018,16:31:2,[M&Ms,0.99,1],Appleton North
+6-22-2018,10:26:49,[M&Ms,0.99,1],Appleton North
+5-11-2018,10:53:36,[Milk,0.0,3],Appleton North
+10-4-2017,18:39:44,[Chips,0.0,2],Hortonville
+10-24-2018,2:57:46,[Apple,0.0,5],Hortonville
+2-12-2017,12:59:5,[Pizza,0.0,5],Hortonville
+2-6-2018,6:8:46,[Pizza,0.0,2],Hortonville
+3-12-2018,12:57:17,[M&Ms,0.99,3],Hortonville
+6-20-2017,8:45:10,[Chips,0.0,1],Hortonville
+6-7-2018,2:35:38,[Pizza,0.0,4],Hortonville
+6-3-2017,21:55:53,[Banana,0.0,3],Appleton North
+1-23-2018,16:39:28,[Eggs,0.0,1],Appleton North
+6-23-2017,16:20:14,[Apple,0.0,4],Hortonville
+7-11-2018,23:57:49,[Banana,0.0,1],Appleton North
+3-1-2018,9:36:26,[Nachos,0.0,4],Appleton North
+7-18-2017,5:49:28,[Chips,0.0,5],Appleton North
+1-14-2017,6:20:30,[Bread,0.0,5],Appleton North
+12-17-2018,17:11:22,[M&Ms,0.99,1],Hortonville
+6-27-2017,0:40:17,[Energy drink,0.0,5],Hortonville
+12-30-2018,3:38:47,[Pizza,0.0,5],Appleton North
+12-9-2017,15:35:2,[Sandwich,0.0,1],Hortonville
+5-30-2017,17:53:46,[Muffin,0.0,5],Hortonville
+1-9-2017,8:17:37,[Energy drink,0.0,3],Hortonville
+12-4-2018,13:49:17,[Muffin,0.0,4],Hortonville
+7-2-2018,18:12:16,[Muffin,0.0,2],Appleton North
+7-24-2018,9:30:10,[Nachos,0.0,5],Hortonville
+3-8-2018,1:21:36,[Muffin,0.0,2],Hortonville
+12-6-2018,10:0:11,[Nachos,0.0,1],Appleton North
+1-21-2018,23:53:26,[Milk,0.0,4],Hortonville
+1-7-2018,22:59:10,[Muffin,0.0,1],Appleton North
+10-10-2018,7:43:57,[Energy drink,0.0,2],Appleton North
+2-1-2017,20:26:43,[Sandwich,0.0,2],Appleton North
+6-11-2017,14:52:5,[Apple,0.0,2],Hortonville
+10-27-2017,14:55:15,[Sandwich,0.0,3],Hortonville
+12-10-2018,23:51:56,[Milk,0.0,4],Hortonville
+11-21-2018,14:0:3,[Nachos,0.0,5],Appleton North
+5-29-2017,11:56:59,[Nachos,0.0,4],Appleton North
+12-24-2017,18:23:22,[Muffin,0.0,3],Hortonville
+7-7-2017,4:44:24,[Apple,0.0,3],Appleton North
+5-8-2017,21:37:22,[Bread,0.0,3],Appleton North
+11-24-2017,20:44:37,[Banana,0.0,1],Appleton North
+10-29-2017,20:38:13,[Banana,0.0,5],Appleton North
+3-16-2017,5:2:34,[M&Ms,0.99,2],Hortonville
+2-2-2017,0:9:34,[Nachos,0.0,5],Hortonville
+2-15-2017,9:7:39,[Apple,0.0,2],Hortonville
+11-25-2018,0:2:6,[Muffin,0.0,3],Appleton North
+4-15-2018,6:48:11,[Banana,0.0,1],Appleton North
+3-26-2017,9:41:50,[Muffin,0.0,3],Appleton North
+2-6-2017,14:19:27,[Skittles,0.0,4],Hortonville
+10-21-2017,4:55:26,[Donut,0.0,1],Hortonville
+6-16-2018,22:6:53,[Donut,0.0,4],Appleton North
+10-13-2017,18:37:51,[M&Ms,0.99,2],Appleton North
+1-31-2017,18:4:24,[Bread,0.0,4],Hortonville
+7-14-2018,1:28:13,[Apple,0.0,1],Hortonville
+8-26-2018,4:34:1,[Nachos,0.0,3],Hortonville
+12-14-2017,3:3:47,[Skittles,0.0,5],Appleton North
+5-8-2017,22:8:27,[Nachos,0.0,4],Hortonville
+1-28-2018,15:28:8,[Skittles,0.0,3],Hortonville
+3-30-2017,2:34:10,[Eggs,0.0,5],Appleton North
+4-23-2017,15:30:54,[Gum,0.0,1],Hortonville
+2-24-2017,18:51:28,[M&Ms,0.99,1],Appleton North
+6-18-2018,18:54:9,[Bread,0.0,5],Hortonville
+10-3-2018,6:28:21,[Bread,0.0,5],Hortonville
+10-8-2017,8:31:51,[Nachos,0.0,1],Appleton North
+9-20-2018,18:29:3,[Chips,0.0,5],Hortonville
+7-23-2017,2:22:33,[Eggs,0.0,4],Hortonville
+3-23-2017,0:27:24,[Energy drink,0.0,2],Hortonville
+12-17-2017,17:10:41,[Muffin,0.0,1],Hortonville
+1-15-2017,5:36:57,[Banana,0.0,2],Hortonville
+11-11-2018,9:7:55,[Skittles,0.0,4],Hortonville
+5-1-2018,2:34:1,[Banana,0.0,5],Appleton North
+3-1-2018,8:24:7,[Milk,0.0,2],Hortonville
+6-21-2017,11:51:18,[Muffin,0.0,2],Appleton North
+1-18-2017,23:1:39,[Donut,0.0,2],Hortonville
+11-13-2018,12:7:47,[Nachos,0.0,4],Hortonville
+7-3-2017,1:29:1,[Gum,0.0,4],Appleton North
+7-15-2018,14:43:17,[Sandwich,0.0,4],Appleton North
+8-24-2018,1:42:46,[Milk,0.0,1],Appleton North
+8-9-2018,19:29:44,[Gum,0.0,4],Appleton North
+6-7-2018,3:15:30,[Chips,0.0,4],Hortonville
+12-1-2018,20:11:51,[M&Ms,0.99,5],Hortonville
+8-17-2017,22:50:7,[Gum,0.0,4],Appleton North

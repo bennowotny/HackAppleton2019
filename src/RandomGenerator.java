@@ -60,7 +60,7 @@ public class RandomGenerator {
 
     //This method chooses a random location from the location array
     public static String getRandomLocation(){
-        int locIndex = ((int) (Math.random() * locations.length))-1;
+        int locIndex = ((int) (Math.random() * locations.length));
         return locations[locIndex];
     }
 
@@ -70,7 +70,7 @@ public class RandomGenerator {
     public static String getNameAndPrice() {
 
         String name = names[getIndex()];
-        double price;
+        double price = 0.0;
 
         switch (name) {
 
@@ -118,10 +118,6 @@ public class RandomGenerator {
                 break;
             case "chips":
                 price = 1.99;
-                break;
-            default:
-                name = "error";
-                price = 3.00;
                 break;
         }
 
