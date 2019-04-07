@@ -13,6 +13,12 @@ public class Item {
         this.quantity = quantity;
     }
 
+    public Item(String name, double unitPrice, int quantity){
+        this.name = name;
+        this.unitPrice = unitPrice;
+        this.quantity = quantity;
+    }
+
     public static void loadItems(String[] in){
 
     }

@@ -4,17 +4,17 @@ import java.util.Comparator;
 public class Transaction implements Comparable {
 
     Time time;
-    ArrayList<Item> items;
+    Item item;
     double totalPrice;
     String location;
 
-    public Transaction(String datetime, ArrayList<Item> items, String location){
+    public Transaction(String datetime, Item item, String location){
         this.time = new Time(datetime);
-        this.items = items;
+        this.item = item;
         this.location = location;
-        for(Item i : this.items){
-            totalPrice+=i.getTotalPrice();
-        }
+//        for(Item i : this.items){
+//            totalPrice+=i.getTotalPrice();
+//        }
 
     }
 

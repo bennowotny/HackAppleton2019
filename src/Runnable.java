@@ -20,9 +20,9 @@ public class Runnable {
     public static JFreeChart graph(){
         DefaultCategoryDataset dataset = new DefaultCategoryDataset();
         for(int i = 0; i < 0; i++){
-           // line_chart_dataset.addValue( 15 , "schools" , "1970" );
+            // line_chart_dataset.addValue( 15 , "schools" , "1970" );
         }
-         JFreeChart lineChartObject = ChartFactory.createLineChart(
+        JFreeChart lineChartObject = ChartFactory.createLineChart(
                 "Total Sales","Month",
                 "Sales",
                 dataset,PlotOrientation.VERTICAL,
@@ -42,8 +42,10 @@ public class Runnable {
         chooser.setFileFilter(filter);
         int returnVal = chooser.showOpenDialog(panel);
         if(returnVal == JFileChooser.APPROVE_OPTION) {
-           path = chooser.getSelectedFile().toString();
-           System.out.println(path);
+            path = chooser.getSelectedFile().getAbsolutePath();
+            TransactionBook tb = new TransactionBook();
+            tb.saveTransactions(readFromFile(path));
+            System.out.println(path);
         }
 
         //Add the names of the items to the JList and add a listener that will change the graph
@@ -77,5 +79,18 @@ public class Runnable {
 
     }
 
+    private static String readFromFile(String filePath){
+        String retVal = "";
+        try {
+            File f = new File(filePath);
+            if (!f.exists()) throw new IllegalArgumentException("Not a valid file");
+            FileInputStream r = new FileInputStream(f);
+            while(r.available() != 0) retVal+=(char)r.read();
+            r.close();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        return retVal;
+    }
 
 }
