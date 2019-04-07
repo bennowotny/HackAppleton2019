@@ -4,14 +4,18 @@ import java.io.FileOutputStream;
 public class RandomGenerator {
 
     public static int index;
-    public static double price;
     public static int[] numbersToBeChosen = new int[15];
     public static String[] names = new String[15];
+    public static String[] locations = new String[2];
 
     public static void main(String args[]) {
         populateNumbersToBeChosen();
         populateNames();
+        populateLocations();
+        writeToFile(totalItemData());
     }
+
+    //POPULATORS
 
     public static void populateNames() {
 
@@ -30,68 +34,94 @@ public class RandomGenerator {
         names[12] = "M&Ms";
         names[13] = "energy drink";
         names[14] = "chips";
+
     }
 
-    public static String chooseItem(){
-        return names[getIndex()];
+    public static void populateLocations(){
+        locations[0] = "Hortonville";
+        locations[1] = "Appleton North";
     }
 
-    public double getPrice() {
+    public static void populateNumbersToBeChosen(){
+        for(int ii = 0; ii < numbersToBeChosen.length; ii++){
+            numbersToBeChosen[ii] = ii;
+        }
+    }
 
-        switch (index) {
+    public static int getRandomQuantity(){
+        return (int) (Math.random() *5);
+    }
 
-            case 0:
+    public static String getRandomLocation(){
+        int locIndex = ((int) (Math.random() * 1));
+        return locations[locIndex];
+    }
+
+    //ACCESSORS
+
+    public static String getNameAndPrice() {
+
+        String name = names[getIndex()];
+        double price;
+
+        switch (name) {
+
+            case "banana":
                 price = 4.99;
                 break;
-            case 1:
+            case "apple":
                 price = .69;
                 break;
-            case 2:
+            case "muffin":
                 price = 2.99;
                 break;
-            case 3:
+            case "milk":
                 price = 5.99;
                 break;
-            case 4:
+            case "eggs":
                 price = 3.29;
                 break;
-            case 5:
+            case "gum":
                 price = .99;
                 break;
-            case 6:
+            case "sandwich":
                 price = 3.29;
                 break;
-            case 7:
+            case "bread":
                 price = 3.29;
                 break;
-            case 8:
+            case "pizza":
                 price = 1.99;
                 break;
-            case 9:
+            case "nachos":
                 price = 1.99;
                 break;
-            case 10:
+            case "donut":
                 price = 2.29;
                 break;
-            case 11:
+            case "skittles":
                 price = .99;
                 break;
-            case 12:
+            case "M&Ms":
                 price = .99;
                 break;
-            case 13:
+            case "energy drink":
                 price = 4.99;
                 break;
-            case 14:
+            case "chips":
                 price = 1.99;
+                break;
+            default:
+                name = "error";
+                price = 3.00;
                 break;
         }
 
-        return price;
+        return name+","+price;
 
     }
 
-    public String getRandomDate(){
+    public static String getRandomDate(){
         int month;
         int day;
         int year;
@@ -105,47 +135,58 @@ public class RandomGenerator {
 
     }
 
-    public String getRandomTime(){
+    public static String getRandomTime() {
         int hour;
         int minutes;
         int seconds;
 
-        hour = 1+((int) (Math.random() * 24));
+        hour = 1 + ((int) (Math.random() * 24));
         minutes = ((int) (Math.random() * 60));
         seconds = ((int) (Math.random() * 60));
 
-        return hour+":"+minutes+":"+seconds;
-    }
-
-    public static void populateNumbersToBeChosen(){
-        for(int ii = 0; ii < numbersToBeChosen.length; ii++){
-            numbersToBeChosen[ii] = ii;
-        }
+        return hour + ":" + minutes + ":" + seconds;
     }
 
     public static int getIndex(){
         index = (int) (Math.random() * 16);
         int deltaChange = (int) (Math.random() * 5)-2;
 
-        numbersToBeChosen[index] = index + deltaChange;
+        if(numbersToBeChosen[index] < 2){
+            numbersToBeChosen[index] += deltaChange;
+        }
+
         return numbersToBeChosen[index];
     }
 
-    public static void getItemDetails(){
+    //FINAL OUTPUT THINGS
+
+    public static String getItemDetails(){
         String getDetails;
+        String nameAndPrice = getNameAndPrice();
+        String location = getRandomLocation();
+        String quantity = getRandomQuantity()+"";
+
+        getDetails = "["+nameAndPrice+","+quantity+"],"+location;
+
+        return getDetails;
     }
 
-    public String createData(){
+    public static String createData(){
         String totalData = "";
         String totalDate = getRandomDate();
         String totalTime = getRandomTime();
 
-        totalData += totalDate+", "+totalTime+", ";
+        totalData += totalDate+","+totalTime+",";
 
         return totalData;
     }
 
-    public void writeToFile(Object o){
+    public static String totalItemData(){
+        String totalItemData = createData()+getItemDetails();
+        return totalItemData;
+    }
+
+    public static void writeToFile(Object o){
         try {
             File outputFile = new File(".\\file.txt");
             if(!outputFile.exists())outputFile.createNewFile();
