@@ -12,7 +12,8 @@ public class RandomGenerator {
         populateNumbersToBeChosen();
         populateNames();
         populateLocations();
-        writeToFile(totalItemData());
+        for(int i = 0; i < 500; i++)
+            writeToFile(totalItemData());
     }
 
     //POPULATORS
@@ -49,7 +50,7 @@ public class RandomGenerator {
     }
 
     public static int getRandomQuantity(){
-        return (int) (Math.random() *5);
+        return (int) (Math.random() *5)+1;
     }
 
     public static String getRandomLocation(){
@@ -140,7 +141,7 @@ public class RandomGenerator {
         int minutes;
         int seconds;
 
-        hour = 1 + ((int) (Math.random() * 24));
+        hour = ((int) (Math.random() * 24));
         minutes = ((int) (Math.random() * 60));
         seconds = ((int) (Math.random() * 60));
 
@@ -148,14 +149,14 @@ public class RandomGenerator {
     }
 
     public static int getIndex(){
-        index = (int) (Math.random() * 16);
+        index = (int) (Math.random() * 15);
         int deltaChange = (int) (Math.random() * 5)-2;
 
         if(numbersToBeChosen[index] < 2){
             numbersToBeChosen[index] += deltaChange;
         }
 
-        return numbersToBeChosen[index];
+        return index;
     }
 
     //FINAL OUTPUT THINGS
@@ -188,7 +189,7 @@ public class RandomGenerator {
 
     public static void writeToFile(Object o){
         try {
-            File outputFile = new File(".\\file.txt");
+            File outputFile = new File(".\\file1.txt");
             if(!outputFile.exists())outputFile.createNewFile();
             FileOutputStream fOut = new FileOutputStream(outputFile, true);
             String out = o.toString();
